@@ -1,8 +1,12 @@
 # Scraping FIFA World Cup Data
 
 As part of the [FIFA Design Hackathon](http://blog.gramener.com/1531/fifa-world-cup-design-hackathon)
-we built this scraper to pull every world cup's result from
-[linguasport.com](http://www.linguasport.com/futbol/internacional/mundial/seekff.asp)
+we built this
+[scraper](http://nbviewer.ipython.org/github/sanand0/fifadata/blob/master/matches.ipynb) to pull every world cup's result from
+[linguasport.com](http://www.linguasport.com/futbol/internacional/mundial/seekff.asp).
+This also includes who scored each goal and when, along with which player was booked and when.
+
+This is still work-in-progress.
 
 
 # Key data sources

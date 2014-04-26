@@ -1,0 +1,816 @@
+game_id,minute,player
+101,44,Majewski
+101,52,Smolarek
+101,90,Å»muda
+102,46,B. FÃ¶rster
+102,35,Giresse
+103,62,Buncol
+103,71,WÃ³jcicki
+104,31,Conti
+104,73,Oriali
+104,61,Dremmler
+104,73,Stielike
+257,36,Careca
+257,83,Edinho
+257,13,Dziekanowski
+257,30,Boniek
+258,30,GarrÃ©
+258,49,Brown
+258,83,Pumpido
+258,35,Francescoli
+258,58,Acevedo
+258,68,SantÃ­n
+259,16,De Napoli
+259,67,Di Gennaro
+260,29,Lamriss
+261,37,Martin
+261,67,Hodge
+262,26,Andersen
+262,27,Goicoechea
+262,32,Camacho
+264,27,Allofs
+264,56,FÃ¶rster
+264,64,Berthold
+264,86,MatthÃ¤us
+264,20,Aguirre
+264,27,Quirarte
+264,75,De los Cobos
+264,83,ServÃ­n
+264,94,Hugo SÃ¡nchez
+265,60,Batista
+266,39,TomÃ¡s
+266,44,CalderÃ©
+266,24,Demol
+267,89,FernÃ¡ndez
+268,33,Valdano
+270,17,Maradona
+270,77,Olarticoechea
+270,81,Enrique
+270,85,Pumpido
+270,21,MatthÃ¤us
+347,13,Helmer
+347,37,Wagner
+348,18,Goikoetxea
+348,19,Ferrer
+348,22,Camarasa
+348,87,Otero
+348,23,Hottiger
+348,69,Studer
+348,77,Subiat
+349,71,Al-Muwallid
+349,16,Ljung
+349,67,Thern
+350,50,Popescu
+350,68,Selymes
+350,84,Dumitrescu
+350,33,Ruggeri
+350,55,Redondo
+350,56,Chamot
+352,8,Mazinho
+352,16,Jorginho
+352,44,Leonardo
+352,44,Tab Ramos
+352,49,Caligiuri
+352,64,Clavijo
+352,80,Dooley
+353,2,Emenalo
+353,41,Mutiu
+353,53,Oliseh
+353,58,Nwanu
+353,6,Massaro
+353,29,Costacurta
+353,60,Signori
+353,62,D. Baggio
+353,75,Zola
+354,14,SuÃ¡rez
+354,28,Luis GarcÃ­a
+354,57,Luis GarcÃ­a
+354,70,RamÃ­rez
+354,76,GarcÃ­a Aspe
+354,12,Kremenliev
+354,17,Sirakov
+354,34,Kirjakov
+354,50,Kremenliev
+355,3,Abelardo
+356,40,Winter
+356,89,Wouters
+357,22,Ivanov
+357,82,Stoichkov
+357,85,Mikhajlov
+357,14,Helmer
+357,15,Wagner
+357,49,HÃ¤Ãler
+357,50,Klinsmann
+358,21,Popescu
+358,34,Selymes
+358,108,Panduru
+358,7,Ingesson
+358,43,Schwarz
+359,52,Kostadinov
+359,65,Lechkov
+359,83,Yankov
+359,61,Costacurta
+360,29,Ljung
+360,63,Thern
+360,86,Brolin
+361,82,K. Andersson
+362,4,Mazinho
+362,87,Cafu
+362,41,Apolloni
+411,38,Moriero
+411,84,Di Biagio
+411,89,Maldini
+411,35,H. Flo
+411,54,Mykland
+412,45,Leonardo
+412,90+,Cafu
+412,34,Fuentes
+413,19,Chilavert
+413,23,BenÃ­tez
+413,32,Enciso
+413,84,Arce
+414,49,Okocha
+415,45+,Babbel
+415,56,MatthÃ¤us
+415,77,Tarnat
+415,88,Hamann
+415,57,Davino
+416,38,StojkoviÄ
+416,52,MirkoviÄ
+417,43,GicÄ Popescu
+417,70,Petrescu
+417,81,Ilie
+417,27,Boban
+418,44,VerÃ³n
+418,47,Simeone
+418,73,Almeyda
+418,110,Roa
+418,5,Seaman
+418,10,Ince
+419,26,Del Piero
+419,28,Bergomi
+419,113,Costacurta
+419,53,Guivarc'h
+420,11,Roberto Carlos
+420,37,Aldair
+420,81,Cafu
+420,19,Helveg
+420,39,Colding
+421,10,Stam
+421,17,Numan
+421,76,Numan
+421,22,Chamot
+421,60,Sensini
+422,18,Heinrich
+422,37,Tarnat
+422,40,WÃ¶rns
+422,14,StaniÄ
+422,16,Å imiÄ
+423,31,ZÃ© Carlos
+423,45,CÃ©sar Sampaio
+423,48,Reiziger
+423,60,Davids
+423,90,Van Hooijdonk
+424,74,Blanc
+424,45,AsanoviÄ
+424,75,StaniÄ
+425,34,JurÄiÄ
+425,52,Å timac
+425,69,AsanoviÄ
+425,74,StaniÄ
+425,89,Davids
+426,39,Deschamps
+426,48,Desailly
+426,56,Karembeu
+426,68,Desailly
+463,44,Kana-Biyik
+463,47,N'Dip
+463,68,M'Bouh
+463,117,Onana
+463,72,Perea
+464,53,HaÅ¡ek
+464,56,KociÃ¡n
+464,68,Straka
+464,6,GonzÃ¡lez
+465,40,Ricardo Rocha
+465,50,Mauro GalvÃ£o
+465,85,Ricardo Gomes
+465,27,MonzÃ³n
+465,28,Giusti
+466,21,VÃ¶ller
+466,22,VÃ¶ller
+466,77,MatthÃ¤us
+466,21,Rijkaard
+466,22,Rijkaard
+466,32,Wouters
+467,17,Aldridge
+467,108,McGrath
+467,111,Hagi
+468,36,Berti
+468,14,Pintos Saldanha
+468,26,Ãlvez
+468,35,Perdomo
+469,92,Roberto
+469,110,Chendo
+469,7,Katanec
+469,60,VujoviÄ
+471,23,Å abanadÅ¾oviÄ
+471,31,Å abanadÅ¾oviÄ
+471,21,Serrizuela
+471,41,Olarticoechea
+471,54,Burruchaga
+471,61,Troglio
+472,36,De Agostini
+473,28,Klinsmann
+473,11,MoravÄÃ­k
+473,14,BÃ­lek
+473,38,Straka
+473,70,MoravÄÃ­k
+474,70,Pearce
+474,28,Massing
+474,104,N'Kono
+475,22,Giannini
+475,30,Giusti
+475,71,Ruggeri
+475,76,Olarticoechea
+475,82,Caniggia
+475,105+,Giusti
+476,109,Brehme
+476,66,Parker
+478,52,VÃ¶ller
+478,5,Dezotti
+478,65,MonzÃ³n
+478,84,Troglio
+478,87,Dezotti
+515,35,Nelinho
+515,44,Batista
+516,40,Ardiles
+516,15,Krol
+516,94,Suurbier
+518,37,Smolarek
+518,31,Hurtado
+519,19,Gerrard
+519,63,Crouch
+520,90,Larsson
+520,15,A. John
+520,46,A. John
+521,41,Saviola
+521,48,Heinze
+521,81,Lucho GonzÃ¡lez
+521,62,EbouÃ©
+522,34,StankoviÄ
+522,64,Koroman
+522,81,DragutinoviÄ
+522,90,GavranÄiÄ
+522,56,Van Bronckhorst
+523,18,Torrado
+523,90+,Salcido
+524,28,Jamba
+524,45+,LocÃ³
+524,52,AndrÃ©
+524,26,Cristiano Ronaldo
+525,33,Grella
+525,58,Moore
+525,69,Cahill
+525,78,Aloisi
+525,31,Miyamoto
+525,40,Takahara
+526,5,Onyewu
+526,60,Reyna
+526,16,Rozehnal
+526,59,Lokvenc
+526,81,RosickÃ½
+527,10,De Rossi
+527,62,Camoranesi
+527,88,Iaquinta
+527,41,Muntari
+528,41,Kim Young-chul
+528,51,Lee Chun-soo
+528,23,Abalo
+528,24,Romao
+528,53,Abalo
+529,64,Abidal
+529,72,Zidane
+529,90+,Sagnol
+529,42,Magnin
+529,45,Streller
+529,56,P. Degen
+529,72,Cabanas
+530,42,Ãmerson
+530,32,N. KovaÄ
+530,67,R. KovaÄ
+531,17,Rusol
+531,47,Vashchuk
+532,35,Haggui
+532,36,Bouazizi
+532,65,Chedli
+533,58,Ballack
+533,68,Odonkor
+533,70,Metzelder
+533,3,KrzynÃ³wek
+533,28,Sobolewski
+533,75,Sobolewski
+534,44,Castillo
+534,54,De la Cruz
+534,60,Mora
+534,10,Luis MarÃ­n
+535,64,Lampard
+535,18,Theobald
+535,19,Whitley
+535,45+,Jones
+535,47,Hislop
+536,14,Linderoth
+536,48,LuÄiÄ
+536,60,AllbÃ¤ck
+536,3,Caniza
+536,51,AcuÃ±a
+536,54,NÃºÃ±ez
+536,74,Paredes
+537,36,Crespo
+537,7,Koroman
+537,27,NaÄ
+537,42,KrstajiÄ
+538,34,Robben
+538,35,Mathijsen
+538,58,Van Bommel
+538,90+,Landzaat
+538,25,Zokora
+538,41,Drogba
+539,59,Pineda
+539,13,Delgado
+539,44,AndrÃ©
+539,50,ZÃ© Kalanga
+539,79,AndrÃ©
+540,45+,Pauleta
+540,48,Deco
+540,61,Costinha
+540,20,Nekounam
+540,32,Madanchi
+540,73,Kaabi
+541,49,Lokvenc
+541,65,UjfaluÅ¡i
+541,18,O. Addo
+541,37,Essien
+541,66,Gyan
+541,75,Boateng
+541,84,Muntari
+542,5,Totti
+542,28,De Rossi
+542,70,Zambrotta
+542,21,Pope
+542,45,Mastroeni
+543,21,Miyamoto
+543,42,Kawaguchi
+543,72,Alex
+543,32,R. KovaÄ
+544,29,Cafu
+544,31,Ronaldo
+544,83,Robinho
+544,13,Emerton
+545,79,Abidal
+545,85,Zidane
+545,11,Lee Ho
+546,45,Salifou
+546,47,Adebayor
+546,53,Romao
+547,41,Dokhi
+547,57,Al-Ghamdi
+547,73,Kariri
+547,22,Nesmachnyj
+547,77,Kalinichenko
+548,30,Puyol
+548,89,FÃ bregas
+548,32,Ayari
+548,40,Trabelsi
+548,70,JaÃ¯di
+548,81,Guemamdia
+548,85,Jaziri
+549,52,Valencia
+550,17,UmaÃ±a
+550,45+,Luis MarÃ­n
+550,45+,Ronald GÃ³mez
+550,56,Badilla
+550,76,Leonardo GonzÃ¡lez
+550,18,Radomski
+550,24,BÄk
+550,29,Å»ewÅakow
+550,60,BaszczyÅski
+551,83,Alexandersson
+551,87,Ljungberg
+552,30,Paredes
+552,54,Dos Santos
+552,45,Sancho
+553,26,Miguel
+553,69,Maniche
+553,88,Boa Morte
+553,90+,Nuno Gomes
+553,22,RodrÃ­guez
+553,27,Lucho PÃ©rez
+553,61,Lucho PÃ©rez
+553,65,MÃ¡rquez
+554,37,Madanchi
+554,55,Teymourian
+554,90+,Zandi
+554,22,LocÃ³
+554,45+,MendonÃ§a
+555,28,Kuijt
+555,42,Ooijer
+555,48,De Cler
+555,57,Cambiasso
+556,33,KeÃ¯ta
+556,41,Domoraud
+556,43,Dindane
+556,90+,Domoraud
+556,17,NaÄ
+556,35,DudiÄ
+556,37,Duljaj
+556,45+,NaÄ
+557,35,PolÃ¡k
+557,45+,PolÃ¡k
+558,5,Essien
+558,32,Illiasu
+558,81,Mensah
+558,90+,Appiah
+559,40,Kaji
+560,32,Å imiÄ
+560,38,Tudor
+560,61,Å imuniÄ
+560,70,Pletikosa
+560,85,Å imiÄ
+560,90+,Å imuniÄ
+560,81,Emerton
+561,27,Al-Jaber
+561,77,Al-Temyat
+561,30,Albelda
+561,35,Reyes
+562,18,Svidersâkyj
+562,47,Shelaev
+562,61,Tymoshchuk
+562,65,Rusol
+562,9,Jaziri
+562,43,Bouazizi
+562,45+,Jaziri
+563,38,Aziawonou
+563,44,C. TourÃ©
+563,88,Salifou
+564,43,Senderos
+564,55,YakÄ±n
+564,69,Wicky
+564,82,Spycher
+564,90,Djourou
+564,23,Park Joo-young
+564,37,Kim Jin-kyu
+564,78,Choi Jin-chul
+564,78,Ahn Jung-hwan
+565,27,Frings
+565,28,LuÄiÄ
+565,35,LuÄiÄ
+565,48,Jonson
+566,45+,Heinze
+566,112,SorÃ­n
+566,70,MÃ¡rquez
+566,82,Castro
+566,118,Torrado
+567,18,Terry
+567,78,Robinson
+567,82,Carragher
+567,24,Valencia
+567,37,C. Tenorio
+568,20,Maniche
+568,31,Costinha
+568,45+,Costinha
+568,50,Petit
+568,60,Figo
+568,73,Deco
+568,76,Ricardo
+568,76,Nuno Valente
+568,78,Deco
+568,2,Van Bommel
+568,7,Boulahrouz
+568,59,Van Bronckhorst
+568,63,Boulahrouz
+568,73,Sneijder
+568,74,Van der Vaart
+569,29,Grosso
+569,50,Materazzi
+569,89,Gattuso
+569,90+,Zambrotta
+569,23,Grella
+569,49,Cahill
+571,13,Adriano
+571,44,Juan
+571,7,Appiah
+571,11,Muntari
+571,29,Paintsil
+571,38,E. Addo
+571,48,Gyan
+572,82,Puyol
+572,68,Vieira
+572,87,RibÃ©ry
+573,3,Podolski
+573,94,Odonkor
+573,114,Friedrich
+573,46,SorÃ­n
+573,60,Mascherano
+573,88,Maxi RodrÃ­guez
+573,95,Julio Cruz
+574,16,Svidersâkyj
+574,21,Kalinichenko
+575,30,Terry
+575,62,Rooney
+575,107,Hargreaves
+575,44,Petit
+576,25,Cafu
+576,45+,Juan
+576,45+,Ronaldo
+576,75,LÃºcio
+576,74,Sagnol
+576,87,Saha
+577,40,Borowski
+577,56,Metzelder
+578,83,Ricardo Carvalho
+579,7,Frings
+579,78,Schweinsteiger
+579,24,Ricardo Costa
+579,33,Costinha
+580,5,Zambrotta
+580,12,Sagnol
+580,76,MakÃ©lÃ©lÃ©
+580,110,Zidane
+605,9,Matosas
+605,17,Montero Castillo
+605,59,UbiÃ±a
+605,32,Asatiani
+605,76,Kaplichnyj
+608,18,MÃ¼ller
+609,36,Carlos Alberto
+609,5,Mujica
+609,18,Fontes
+610,73,Rosato
+610,104,De Sisti
+610,114,Domenghini
+611,64,Lorenz
+612,33,Rivelino
+613,27,Dikgacoi
+613,70,Masilela
+613,18,JuÃ¡rez
+614,59,Victorino
+614,65,Lodeiro
+614,81,Lodeiro
+614,90+,Lugano
+614,12,Evra
+614,19,RibÃ©ry
+616,41,JonÃ¡s
+617,26,Milner
+617,60,Carragher
+617,61,Gerrard
+617,39,Cherundolo
+617,47,DeMerit
+618,59,Ghezzal
+618,73,Ghezzal
+618,90+,Yebda
+618,35,RadosavljeviÄ
+619,19,Å½igiÄ
+619,54,LukoviÄ
+619,74,LukoviÄ
+619,83,KuzmanoviÄ
+619,26,Vorsah
+620,12,Ãzil
+620,90+,Cacau
+620,24,Moore
+620,46,Neill
+620,56,Cahill
+621,44,De Jong
+621,49,Van Persie
+622,90+,Abe
+623,70,Camoranesi
+624,42,Lochhead
+624,90+,Reid
+625,7,Zokora
+625,21,Demel
+627,33,W. Palacios
+627,4,Carmona
+628,30,Grichting
+628,73,Ziegler
+628,90+,Benaglio
+629,6,Pienaar
+629,42,Dikgacoi
+630,54,JonÃ¡s
+630,55,Mascherano
+630,74,Heinze
+630,10,Yeum Ki-hoon
+631,15,Papastathopoulos
+631,59,Tziolis
+631,88,Samaras
+631,33,Kaita
+632,45+,Toulalan
+632,78,Abidal
+632,4,Guille Franco
+632,48,JuÃ¡rez
+632,49,Moreno
+633,12,Klose
+633,22,Khedira
+633,32,Lahm
+633,37,Klose
+633,73,Schweinsteiger
+633,18,IvanoviÄ
+633,19,Kolarov
+633,57,SubotiÄ
+634,35,Cesar
+634,69,Å uler
+634,72,Kirm
+634,75,JokiÄ
+635,58,Carragher
+637,40,Addy
+637,79,Jonathan Mensah
+637,84,Annan
+637,24,Kewell
+638,49,Bassong
+638,75,MâBia
+638,86,SÃ¸rensen
+639,42,Äurica
+639,47,Å estÃ¡k
+639,84,Weiss
+640,14,Fallon
+640,28,Smith
+641,85,KakÃ¡
+641,88,KakÃ¡
+641,31,TiÃ©nÃ©
+641,75,KeÃ¯ta
+642,38,Pedro Mendes
+642,70,Hugo Almeida
+642,32,Park Chul-jin
+643,2,Suazo
+643,22,Carmona
+643,25,Ponce
+643,60,Mati FernÃ¡ndez
+643,61,Medel
+643,90+,Valdivia
+643,18,Nkufo
+643,31,Behrami
+643,48,Barnetta
+644,8,Turcios
+645,77,HernÃ¡ndez
+645,86,Castro
+646,25,Gourcuff
+647,31,Enyeama
+647,37,Obasi
+647,42,Yussuf
+648,30,Katsouranis
+649,40,JokiÄ
+649,79,Birsa
+649,81,DediÄ
+650,62,Altidore
+650,90,Beasley
+650,12,Yebda
+650,76,Yahia
+650,83,Lahcen
+651,40,A. Ayew
+652,49,Beauchamp
+652,50,Wilkshire
+652,67,Emerton
+652,18,LukoviÄ
+653,16,Å trba
+653,40,Vittek
+653,50,PekarÃ­k
+653,82,Mucha
+653,31,Cannavaro
+653,67,Chiellini
+653,76,Pepe
+654,10,V. CÃ¡ceres
+654,41,Santa Cruz
+655,12,Endo
+655,26,Nagatomo
+655,29,KrÃ¸ldrup
+655,48,C. Poulsen
+656,25,NâKoulou
+656,81,MâBia
+656,17,Kuijt
+656,65,Van der Vaart
+657,25,Duda
+657,31,Tiago
+657,40,Pepe
+657,45,FÃ¡bio CoentrÃ£o
+657,15,LuÃ­s Fabiano
+657,25,Juan
+659,15,Medel
+659,19,Ponce
+659,21,Estrada
+660,34,Fernandes
+660,4,Thomas
+660,58,Suazo
+660,64,ChÃ¡vez
+661,38,Kim Jung-woo
+661,69,Cha Doo-ri
+662,7,Clark
+662,18,Cherundolo
+662,68,Bocanegra
+662,61,Jonathan Mensah
+663,47,Friedrich
+665,31,Robben
+665,90+,Stekelenburg
+665,40,Kucka
+665,72,KopÃºnek
+666,30,KakÃ¡
+666,72,Ramires
+666,47,Vidal
+666,68,Fuentes
+667,118,Riveros
+667,58,Matsui
+667,72,Nagatomo
+667,90+,Honda
+668,74,Xabi Alonso
+668,80,Tiago
+669,14,Heitinga
+669,47,Van der Wiel
+669,64,De Jong
+669,76,Ooijer
+669,37,Michel Bastos
+670,20,Fucile
+670,48,ArÃ©valo
+670,59,PÃ©rez
+670,120+,SuÃ¡rez
+670,54,Paintsil
+670,77,Sarpei
+671,11,Otamendi
+671,80,Mascherano
+672,57,PiquÃ©
+672,63,Busquets
+672,59,V. CÃ¡ceres
+672,59,Alcaraz
+672,71,Morel
+673,21,M. Pereira
+673,29,CÃ¡ceres
+673,29,Sneijder
+673,78,Boulahrouz
+675,61,PÃ©rez
+675,5,Aogo
+675,7,Cacau
+676,15,Van Persie
+676,22,Van Bommel
+676,28,De Jong
+676,54,Van Bronckhorst
+676,57,Heitinga
+676,84,Robben
+676,109,Heitinga
+676,111,Van der Wiel
+676,117,Mathijsen
+676,16,Puyol
+676,23,Sergio Ramos
+676,67,Capdevila
+676,118,Iniesta
+745,71,Kasperczak
+746,3,Vogts
+746,22,Van Hanegem
+746,39,Neeskens
+795,35,Schneider
+795,71,Baumann
+795,90+,Ballack
+795,26,AcuÃ±a
+795,50,Cardozo
+796,24,TÃ¸fting
+797,73,Coly
+798,62,Juanfran
+798,87,Baraja
+799,37,Vidrio
+799,67,HernÃ¡ndez
+799,70,Blanco
+799,81,GarcÃ­a Aspe
+799,84,Carmona
+799,88,MÃ¡rquez
+799,26,Pope
+799,47,Mastroeni
+799,50,Wolff
+799,53,Berhalter
+800,28,Roberto Carlos
+801,45,Toda
+801,21,Alpay
+801,44,ErgÃ¼n
+802,17,Kim Tae-young
+802,80,Song Jong-gook
+802,99,Lee Chun-soo
+802,115,Choi Jin-chul
+802,4,Coco
+802,22,Totti
+802,55,Tommasi
+802,59,Zanetti
+803,75,Scholes
+803,86,Ferdinand
+804,66,Kehl
+804,68,Jeremies
+804,40,Lewis
+804,41,Pope
+804,68,Reyna
+804,69,Mastroeni
+805,53,De Pedro
+805,111,Morientes
+806,12,Daf
+806,63,CissÃ©
+806,22,Emre BelÃ¶zoÄlu
+807,71,Ballack
+807,85,Neuville
+808,41,Gilberto Silva
+808,59,Tugay
+809,50,Tugay
+809,83,RÃ¼ÅtÃ¼
+810,6,Roque JÃºnior
