@@ -18,14 +18,14 @@ ATTENDANCE,DATE,PK,REFEREE,STADIUM,game_id,stage,team1,team2,url
 50000,10-06-1934 (17:00 h),,Ivan Eklind(SWE),Stadio Nazionale del PNF (Roma),17,FINAL,Italy,Czechoslovakia,1934_ITALY_FS.htm
 34107,8-06-1958 (14:00 h),,Nikolaj Latyshev (USSR),Råsunda (Solna  Stockholm),18, GROUP STAGE,Sweden,Mexico,1958_SWEDEN_FS.htm
 31156,8-06-1958 (19:00 h),,Reginald Leafe (ENG),Malmö Stadion (Malmö),19, GROUP STAGE,FRG,Argentina,1958_SWEDEN_FS.htm
-10647,8-06-1958 (19:00 h),,Fritz Seipelt (AUT),Ãrjans Vall (Halmstad),20, GROUP STAGE,Northern Ireland,Czechoslovakia,1958_SWEDEN_FS.htm
+10647,8-06-1958 (19:00 h),,Fritz Seipelt (AUT),Örjans Vall (Halmstad),20, GROUP STAGE,Northern Ireland,Czechoslovakia,1958_SWEDEN_FS.htm
 16518,8-06-1958 (19:00 h),,Juan GardeazÃ¡bal (SPA),Idrottsparken (Norrköping),21, GROUP STAGE,France,Paraguay,1958_SWEDEN_FS.htm
 9591,8-06-1958 (19:00 h),,Paul Wyssling (SWI),Arosvallen (Västerås),22, GROUP STAGE,Yugoslavia,Scotland,1958_SWEDEN_FS.htm
 15343,8-06-1958 (19:00 h),,José MarÃ­a Codesal (URU),Jernvallen (Sandviken),23, GROUP STAGE,Hungary,Wales,1958_SWEDEN_FS.htm
 49348,8-06-1958 (19:00 h),,IstvÃ¡n Zsolt (HUN),Nya Ullevi (Göteborg),24, GROUP STAGE,England,Soviet Union,1958_SWEDEN_FS.htm
 17778,8-06-1958 (19:00 h),,Maurice Guigue (FRA),Rimnersvallen (Uddevalla),25, GROUP STAGE,Brazil,Austria,1958_SWEDEN_FS.htm
 31156,11-06-1958 (19:00 h),,Arthur Ellis (ENG),Olympiastadion (Helsingborg),26, GROUP STAGE,FRG,Czechoslovakia,1958_SWEDEN_FS.htm
-14174,11-06-1958 (19:00 h),,Sten Ahlner (SWE),Ãrjans Vall (Halmstad),27, GROUP STAGE,Argentina,Northern Ireland,1958_SWEDEN_FS.htm
+14174,11-06-1958 (19:00 h),,Sten Ahlner (SWE),Örjans Vall (Halmstad),27, GROUP STAGE,Argentina,Northern Ireland,1958_SWEDEN_FS.htm
 11665,11-06-1958 (19:00 h),,Vincenzo Orlandini (ITA),Idrottsparken (Norrköping),28, GROUP STAGE,Paraguay,Scotland,1958_SWEDEN_FS.htm
 12217,11-06-1958 (19:00 h),,Mervyn Griffiths (WAL),Arosvallen (Västerås),29, GROUP STAGE,Yugoslavia,France,1958_SWEDEN_FS.htm
 15150,11-06-1958 (19:00 h),,Leo LemeÅ¡iÄ (YUG),Råsunda (Solna  Stockholm),30, GROUP STAGE,Wales,Mexico,1958_SWEDEN_FS.htm
@@ -52,8 +52,8 @@ ATTENDANCE,DATE,PK,REFEREE,STADIUM,game_id,stage,team1,team2,url
 32482,28-06-1958 (17:00 h),,Juan Regis Brozzi (ARG),Nya Ullevi (Göteborg),51, PLACES 3-4,France,FRG,1958_SWEDEN_FS.htm
 49737,29-06-1958 (15:00 h),,Maurice Guigue (FRA),Råsunda (Solna  Stockholm),52, FINAL,Brazil,Sweden,1958_SWEDEN_FS.htm
 95000,13-06-1982 (20:00 h),,VojtÄch Christov (CZE),Camp Nou (Barcelona),53,GROUP STAGE (FIRST            ROUND),Argentina,Belgium,1982_SPAIN_FS.htm
-22000,14-06-1982 (17:15 h),,Michel Vautrot (FRA),BalaÃ­dos (Vigo),54,GROUP STAGE (FIRST            ROUND),Italy,Poland,1982_SPAIN_FS.htm
-50000,14-06-1982 (21:00 h),,Augusto Lamo Castillo (SPA),Ramón SÃ¡nchez PizjuÃ¡n (Sevilla),55,GROUP STAGE (FIRST            ROUND),Brazil,Soviet Union,1982_SPAIN_FS.htm
+22000,14-06-1982 (17:15 h),,Michel Vautrot (FRA),Badalona (Vigo),54,GROUP STAGE (FIRST            ROUND),Italy,Poland,1982_SPAIN_FS.htm
+50000,14-06-1982 (21:00 h),,Augusto Lamo Castillo (SPA),Ramón Sánchez Pizjuán (Sevilla),55,GROUP STAGE (FIRST            ROUND),Brazil,Soviet Union,1982_SPAIN_FS.htm
 15000,15-06-1982 (17:15 h),,Franz Wöhrer (AUT),Riazor (La Coruña),56,GROUP STAGE (FIRST            ROUND),Peru,Cameroon,1982_SPAIN_FS.htm
 23000,15-06-1982 (21:00 h),,Ibrahim Al-Doy (BHR),Nuevo Estadio (Elche),57,GROUP STAGE (FIRST            ROUND),Hungary,El Salvador,1982_SPAIN_FS.htm
 22000,15-06-1982 (21:00 h),,David Socha (USA),La Rosaleda (MÃ¡laga),58,GROUP STAGE (FIRST            ROUND),Scotland,New Zealand,1982_SPAIN_FS.htm
@@ -63,9 +63,9 @@ ATTENDANCE,DATE,PK,REFEREE,STADIUM,game_id,stage,team1,team2,url
 22000,17-06-1982 (17:15 h),,Juan Daniel Cardellino (URU),Carlos Tartiere (Oviedo),62,GROUP STAGE (FIRST            ROUND),Chile,Austria,1982_SPAIN_FS.htm
 12000,17-06-1982 (17:15 h),,Benjamin Dwomoh (GHA),Nuevo José Zorrilla (Valladolid),63,GROUP STAGE (FIRST            ROUND),Czechoslovakia,Kuwait,1982_SPAIN_FS.htm
 18000,17-06-1982 (21:00 h),,Erik Fredriksson (SWE),La Romareda (Zaragoza),64,GROUP STAGE (FIRST            ROUND),Yugoslavia,Northern Ireland,1982_SPAIN_FS.htm
-25000,18-06-1982 (17:15 h),,Walter Eschweiler (FRG),BalaÃ­dos (Vigo),65,GROUP STAGE (FIRST            ROUND),Italy,Peru,1982_SPAIN_FS.htm
+25000,18-06-1982 (17:15 h),,Walter Eschweiler (FRG),Badalona (Vigo),65,GROUP STAGE (FIRST            ROUND),Italy,Peru,1982_SPAIN_FS.htm
 32093,18-06-1982 (21:00 h),,BelaÃ¯d Lacarne (ALG),José Rico Pérez (Alicante),66,GROUP STAGE (FIRST            ROUND),Argentina,Hungary,1982_SPAIN_FS.htm
-47379,18-06-1982 (21:00 h),,Luis Paulino Siles (CRC),Benito VillamarÃ­n (Sevilla),67,GROUP STAGE (FIRST            ROUND),Brazil,Scotland,1982_SPAIN_FS.htm
+47379,18-06-1982 (21:00 h),,Luis Paulino Siles (CRC),Estadio Benito Villamarín (Sevilla),67,GROUP STAGE (FIRST            ROUND),Brazil,Scotland,1982_SPAIN_FS.htm
 12000,19-06-1982 (17:15 h),,Alexis Ponnet (BEL),Riazor (La Coruña),68,GROUP STAGE (FIRST            ROUND),Poland,Cameroon,1982_SPAIN_FS.htm
 6000,19-06-1982 (21:00 h),,Malcolm Moffatt (NIR),Nuevo Estadio (Elche),69,GROUP STAGE (FIRST            ROUND),Belgium,El Salvador,1982_SPAIN_FS.htm
 17000,19-06-1982 (21:00 h),,Yousef el-Ghoul (LYB),La Rosaleda (MÃ¡laga),70,GROUP STAGE (FIRST            ROUND),Soviet Union,New Zealand,1982_SPAIN_FS.htm
@@ -78,9 +78,9 @@ ATTENDANCE,DATE,PK,REFEREE,STADIUM,game_id,stage,team1,team2,url
 16000,22-06-1982 (17:15 h),,Mario Rubio (MEX),Riazor (La Coruña),77,GROUP STAGE (FIRST            ROUND),Poland,Peru,1982_SPAIN_FS.htm
 22000,22-06-1982 (21:00 h),,Clive White (ENG),Nuevo Estadio (Elche),78,GROUP STAGE (FIRST            ROUND),Belgium,Hungary,1982_SPAIN_FS.htm
 30000,22-06-1982 (21:00 h),,Nicolae Rainea (ROM),La Rosaleda (MÃ¡laga),79,GROUP STAGE (FIRST            ROUND),Soviet Union,Scotland,1982_SPAIN_FS.htm
-17000,23-06-1982 (17:15 h),,Bogdan Dochev (BUL),BalaÃ­dos (Vigo),80,GROUP STAGE (FIRST ROUND) ,Italy,Cameroon,1982_SPAIN_FS.htm
+17000,23-06-1982 (17:15 h),,Bogdan Dochev (BUL),Badalona (Vigo),80,GROUP STAGE (FIRST ROUND) ,Italy,Cameroon,1982_SPAIN_FS.htm
 18000,23-06-1982 (21:00 h),,Luis Barrancos (BOL),José Rico Pérez (Alicante),81,GROUP STAGE (FIRST            ROUND),Argentina,El Salvador,1982_SPAIN_FS.htm
-32000,23-06-1982 (21:00 h),,Damir MatovinoviÄ (YUG),Benito VillamarÃ­n (Sevilla),82,GROUP STAGE (FIRST            ROUND),Brazil,New Zealand,1982_SPAIN_FS.htm
+32000,23-06-1982 (21:00 h),,Damir MatovinoviÄ (YUG),Estadio Benito Villamarín (Sevilla),82,GROUP STAGE (FIRST            ROUND),Brazil,New Zealand,1982_SPAIN_FS.htm
 18000,24-06-1982 (17:15 h),,Rómulo Méndez (GUA),Carlos Tartiere (Oviedo),83,GROUP STAGE (FIRST            ROUND),Algeria,Chile,1982_SPAIN_FS.htm
 28000,24-06-1982 (17:15 h),,Paolo Casarin (ITA),Nuevo José Zorrilla (Valladolid),84,GROUP STAGE (FIRST            ROUND),France,Czechoslovakia,1982_SPAIN_FS.htm
 12000,24-06-1982 (21:00 h),,Gastón Castro (CHI),La Romareda (Zaragoza),85,GROUP STAGE (FIRST            ROUND),Honduras,Yugoslavia,1982_SPAIN_FS.htm
@@ -100,7 +100,7 @@ ATTENDANCE,DATE,PK,REFEREE,STADIUM,game_id,stage,team1,team2,url
 44000,5-07-1982 (17:15 h),,Abraham Klein (ISR),SarriÃ¡ (Barcelona),99,GROUP STAGE (SECOND            ROUND),Italy,Brazil,1982_SPAIN_FS.htm
 65000,5-07-1982 (21:00 h),,Alexis Ponnet (BEL),Santiago Bernabéu (Madrid),100,GROUP STAGE (SECOND            ROUND),Spain,England,1982_SPAIN_FS.htm
 55000,8-07-1982 (17:15 h),,Juan Daniel Cardellino (URU),Camp Nou (Barcelona),101,1/2 FINAL,Poland,Italy,1982_SPAIN_FS.htm
-71000,8-07-1982 (21:00 h),0-1 (Giresse); 1-1 (Kaltz) / 1-2 (Amorós); 2-2 (Breitner) / 2-3 (Rocheteau); 2-3 (Stielike [saved]) / 2-3 (Six [saved]); 3-3 (Littbarski) / 3-4 (Platini); 4-4 (Rummenigge) // [decisive shots] 4-4 (Bossis [saved]); 5-4 (Hrubesch),Charles Corver (NED),Ramón SÃ¡nchez PizjuÃ¡n (Sevilla),102,1/2 FINAL,FRG,France,1982_SPAIN_FS.htm
+71000,8-07-1982 (21:00 h),0-1 (Giresse); 1-1 (Kaltz) / 1-2 (Amorós); 2-2 (Breitner) / 2-3 (Rocheteau); 2-3 (Stielike [saved]) / 2-3 (Six [saved]); 3-3 (Littbarski) / 3-4 (Platini); 4-4 (Rummenigge) // [decisive shots] 4-4 (Bossis [saved]); 5-4 (Hrubesch),Charles Corver (NED),Ramón Sánchez Pizjuán (Sevilla),102,1/2 FINAL,FRG,France,1982_SPAIN_FS.htm
 28000,10-07-1982 (20:00 h),,António José da Silva Garrido (POR),José Rico Pérez (Alicante),103,PLACES 3-4,Poland,France,1982_SPAIN_FS.htm
 90089,11-07-1982 (20:00 h),,Arnaldo César Coelho (BRA),Santiago Bernabéu (Madrid),104,FINAL,Italy,FRG,1982_SPAIN_FS.htm
 87148,11-07-1966 (19:30 h),,IstvÃ¡n Zsolt (HUN),Wembley (London),105,GROUP STAGE,England,Uruguay,1966_ENGLAND_FS.htm
@@ -135,16 +135,16 @@ ATTENDANCE,DATE,PK,REFEREE,STADIUM,game_id,stage,team1,team2,url
 94493,26-07-1966 (19:30 h),,Pierre Schwinte (FRA),Wembley (London),134,1/2 FINAL,England,Portugal,1966_ENGLAND_FS.htm
 87696,28-07-1966 (19:30 h),,Kenneth Dagnall (ENG),Wembley (London),135,PLACES 3-4,Portugal,Soviet Union,1966_ENGLAND_FS.htm
 93802,30-07-1966 (15:00 h),,Gottfried Dienst (SWI),Wembley (London),136,FINAL,England,FRG,1966_ENGLAND_FS.htm
-xxx,12-06-2014 (17:00 h),,xxx (XXX),Novo EstÃ¡dio do Corinthians (São Paulo),137,GROUP STAGE,Brazil,Croatia,2014_BRAZIL_FS.htm
+xxx,12-06-2014 (17:00 h),,xxx (XXX),Estádio do Corinthians (São Paulo),137,GROUP STAGE,Brazil,Croatia,2014_BRAZIL_FS.htm
 xxx,13-06-2014 (13:00 h),,xxx (XXX),Arena das Dunas (Natal),138,GROUP STAGE,Mexico,Cameroon,2014_BRAZIL_FS.htm
 xxx,13-06-2014 (16:00 h),,xxx (XXX),Arena Fonte Nova (Salvador),139,GROUP STAGE,Spain,Netherlands,2014_BRAZIL_FS.htm
 xxx,13-06-2014 (18:00 h),,xxx (XXX),Arena Pantanal (Cuiabá),140,GROUP STAGE,Chile,Australia,2014_BRAZIL_FS.htm
 xxx,14-06-2014 (13:00 h),,xxx (XXX),Mineirão (Belo Horizonte),141,GROUP STAGE,Colombia,Greece,2014_BRAZIL_FS.htm
 xxx,14-06-2014 (16:00 h),,xxx (XXX),Castelão (Fortaleza),142,GROUP STAGE,Uruguay,Costa Rica,2014_BRAZIL_FS.htm
-xxx,14-06-2014 (18:00 h),,xxx (XXX),Arena da AmazÃ´nia (Manaus),143,GROUP STAGE,England,Italy,2014_BRAZIL_FS.htm
+xxx,14-06-2014 (18:00 h),,xxx (XXX),Arena da Amazônia (Manaus),143,GROUP STAGE,England,Italy,2014_BRAZIL_FS.htm
 xxx,14-06-2014 (22:00 h),,xxx (XXX),Arena Pernambuco (Recife),144,GROUP STAGE,Ivory Coast,Japan,2014_BRAZIL_FS.htm
 xxx,15-06-2014 (13:00 h),,xxx (XXX),EstÃ¡dio Nacional de Brasília (Brasília),145,GROUP STAGE,Switzerland,Ecuador,2014_BRAZIL_FS.htm
-xxx,15-06-2014 (16:00 h),,xxx (XXX),EstÃ¡dio Beira-Rio (Porto Alegre),146,GROUP STAGE,France,Honduras,2014_BRAZIL_FS.htm
+xxx,15-06-2014 (16:00 h),,xxx (XXX),Estádio Beira-Rio (Porto Alegre),146,GROUP STAGE,France,Honduras,2014_BRAZIL_FS.htm
 xxx,15-06-2014 (19:00 h),,xxx (XXX),Maracanã (Rio de Janeiro),147,GROUP STAGE,Argentina,Bosnia-Herzegovina,2014_BRAZIL_FS.htm
 xxx,16-06-2014 (13:00 h),,xxx (XXX),Arena Fonte Nova (Salvador),148,GROUP STAGE,Germany,Portugal,2014_BRAZIL_FS.htm
 xxx,16-06-2014 (16:00 h),,xxx (XXX),Arena da Baixada (Curitiba),149,GROUP STAGE,Iran,Nigeria,2014_BRAZIL_FS.htm
@@ -152,11 +152,11 @@ xxx,16-06-2014 (19:00 h),,xxx (XXX),Arena das Dunas (Natal),150,GROUP STAGE,Ghan
 xxx,17-06-2014 (13:00 h),,xxx (XXX),Mineirão (Belo Horizonte),151,GROUP STAGE,Belgium,Algeria,2014_BRAZIL_FS.htm
 xxx,17-06-2014 (16:00 h),,xxx (XXX),Castelão (Fortaleza),152,GROUP STAGE,Brazil,Mexico,2014_BRAZIL_FS.htm
 xxx,17-06-2014 (18:00 h),,xxx (XXX),Arena Pantanal (Cuiabá),153,GROUP STAGE,Russia,South Korea,2014_BRAZIL_FS.htm
-xxx,18-06-2014 (13:00 h),,xxx (XXX),EstÃ¡dio Beira-Rio (Porto Alegre),154,GROUP STAGE,Australia,Netherlands,2014_BRAZIL_FS.htm
+xxx,18-06-2014 (13:00 h),,xxx (XXX),Estádio Beira-Rio (Porto Alegre),154,GROUP STAGE,Australia,Netherlands,2014_BRAZIL_FS.htm
 xxx,18-06-2014 (16:00 h),,xxx (XXX),Maracanã (Rio de Janeiro),155,GROUP STAGE,Spain,Chile,2014_BRAZIL_FS.htm
-xxx,18-06-2014 (18:00 h),,xxx (XXX),Arena da AmazÃ´nia (Manaus),156,GROUP STAGE,Cameroon,Croatia,2014_BRAZIL_FS.htm
+xxx,18-06-2014 (18:00 h),,xxx (XXX),Arena da Amazônia (Manaus),156,GROUP STAGE,Cameroon,Croatia,2014_BRAZIL_FS.htm
 xxx,19-06-2014 (13:00 h),,xxx (XXX),EstÃ¡dio Nacional de Brasília (Brasília),157,GROUP STAGE,Colombia,Ivory Coast,2014_BRAZIL_FS.htm
-xxx,19-06-2014 (16:00 h),,xxx (XXX),Novo EstÃ¡dio do Corinthians (São Paulo),158,GROUP STAGE,Uruguay,England,2014_BRAZIL_FS.htm
+xxx,19-06-2014 (16:00 h),,xxx (XXX),Estádio do Corinthians (São Paulo),158,GROUP STAGE,Uruguay,England,2014_BRAZIL_FS.htm
 xxx,19-06-2014 (19:00 h),,xxx (XXX),Arena das Dunas (Natal),159,GROUP STAGE,Japan,Greece,2014_BRAZIL_FS.htm
 xxx,20-06-2014 (13:00 h),,xxx (XXX),Arena Pernambuco (Recife),160,GROUP STAGE,Italy,Costa Rica,2014_BRAZIL_FS.htm
 xxx,20-06-2014 (16:00 h),,xxx (XXX),Arena Fonte Nova (Salvador),161,GROUP STAGE,Switzerland,France,2014_BRAZIL_FS.htm
@@ -165,38 +165,38 @@ xxx,21-06-2014 (13:00 h),,xxx (XXX),Mineirão (Belo Horizonte),163,GROUP STAGE,A
 xxx,21-06-2014 (16:00 h),,xxx (XXX),Castelão (Fortaleza),164,GROUP STAGE,Germany,Ghana,2014_BRAZIL_FS.htm
 xxx,21-06-2014 (18:00 h),,xxx (XXX),Arena Pantanal (Cuiabá),165,GROUP STAGE,Nigeria,Bosnia-Herzegovina,2014_BRAZIL_FS.htm
 xxx,22-06-2014 (13:00 h),,xxx (XXX),Maracanã (Rio de Janeiro),166,GROUP STAGE,Belgium,Russia,2014_BRAZIL_FS.htm
-xxx,22-06-2014 (16:00 h),,xxx (XXX),EstÃ¡dio Beira-Rio (Porto Alegre),167,GROUP STAGE,South Korea,Algeria,2014_BRAZIL_FS.htm
-xxx,22-06-2014 (18:00 h),,xxx (XXX),Arena da AmazÃ´nia (Manaus),168,GROUP STAGE,USA,Portugal,2014_BRAZIL_FS.htm
+xxx,22-06-2014 (16:00 h),,xxx (XXX),Estádio Beira-Rio (Porto Alegre),167,GROUP STAGE,South Korea,Algeria,2014_BRAZIL_FS.htm
+xxx,22-06-2014 (18:00 h),,xxx (XXX),Arena da Amazônia (Manaus),168,GROUP STAGE,USA,Portugal,2014_BRAZIL_FS.htm
 xxx,23-06-2014 (13:00 h),,xxx (XXX),Arena da Baixada (Curitiba),169,GROUP STAGE,Australia,Spain,2014_BRAZIL_FS.htm
-xxx,23-06-2014 (13:00 h),,xxx (XXX),Novo EstÃ¡dio do Corinthians (São Paulo),170,GROUP STAGE,Netherlands,Chile,2014_BRAZIL_FS.htm
+xxx,23-06-2014 (13:00 h),,xxx (XXX),Estádio do Corinthians (São Paulo),170,GROUP STAGE,Netherlands,Chile,2014_BRAZIL_FS.htm
 xxx,23-06-2014 (17:00 h),,xxx (XXX),EstÃ¡dio Nacional de Brasília (Brasília),171,GROUP STAGE,Cameroon,Brazil,2014_BRAZIL_FS.htm
 xxx,23-06-2014 (17:00 h),,xxx (XXX),Arena Pernambuco (Recife),172,GROUP STAGE,Croatia,Mexico,2014_BRAZIL_FS.htm
 xxx,24-06-2014 (13:00 h),,xxx (XXX),Arena das Dunas (Natal),173,GROUP STAGE,Italy,Uruguay,2014_BRAZIL_FS.htm
 xxx,24-06-2014 (13:00 h),,xxx (XXX),Mineirão (Belo Horizonte),174,GROUP STAGE,Costa Rica,England,2014_BRAZIL_FS.htm
 xxx,24-06-2014 (16:00 h),,xxx (XXX),Arena Pantanal (Cuiabá),175,GROUP STAGE,Japan,Colombia,2014_BRAZIL_FS.htm
 xxx,24-06-2014 (17:00 h),,xxx (XXX),Castelão (Fortaleza),176,GROUP STAGE,Greece,Ivory Coast,2014_BRAZIL_FS.htm
-xxx,25-06-2014 (13:00 h),,xxx (XXX),EstÃ¡dio Beira-Rio (Porto Alegre),177,GROUP STAGE,Nigeria,Argentina,2014_BRAZIL_FS.htm
+xxx,25-06-2014 (13:00 h),,xxx (XXX),Estádio Beira-Rio (Porto Alegre),177,GROUP STAGE,Nigeria,Argentina,2014_BRAZIL_FS.htm
 xxx,25-06-2014 (13:00 h),,xxx (XXX),Arena Fonte Nova (Salvador),178,GROUP STAGE,Bosnia-Herzegovina,Iran,2014_BRAZIL_FS.htm
-xxx,25-06-2014 (16:00 h),,xxx (XXX),Arena da AmazÃ´nia (Manaus),179,GROUP STAGE,Honduras,Switzerland,2014_BRAZIL_FS.htm
+xxx,25-06-2014 (16:00 h),,xxx (XXX),Arena da Amazônia (Manaus),179,GROUP STAGE,Honduras,Switzerland,2014_BRAZIL_FS.htm
 xxx,25-06-2014 (17:00 h),,xxx (XXX),Maracanã (Rio de Janeiro),180,GROUP STAGE,Ecuador,France,2014_BRAZIL_FS.htm
 xxx,26-06-2014 (13:00 h),,xxx (XXX),Arena Pernambuco (Recife),181,GROUP STAGE,USA,Germany,2014_BRAZIL_FS.htm
 xxx,26-06-2014 (13:00 h),,xxx (XXX),EstÃ¡dio Nacional de Brasília (Brasília),182,GROUP STAGE,Portugal,Ghana,2014_BRAZIL_FS.htm
-xxx,26-06-2014 (17:00 h),,xxx (XXX),Novo EstÃ¡dio do Corinthians (São Paulo),183,GROUP STAGE,South Korea,Belgium,2014_BRAZIL_FS.htm
+xxx,26-06-2014 (17:00 h),,xxx (XXX),Estádio do Corinthians (São Paulo),183,GROUP STAGE,South Korea,Belgium,2014_BRAZIL_FS.htm
 xxx,26-06-2014 (17:00 h),,xxx (XXX),Arena da Baixada (Curitiba),184,GROUP STAGE,Algeria,Russia,2014_BRAZIL_FS.htm
 xxx,28-06-2014 (13:00 h),,xxx (XXX),Mineirão (Belo Horizonte),185,1/8 FINAL,,,2014_BRAZIL_FS.htm
 xxx,28-06-2014 (17:00 h),,xxx (XXX),Maracanã (Rio de Janeiro),186,1/8 FINAL,,,2014_BRAZIL_FS.htm
 xxx,29-06-2014 (13:00 h),,xxx (XXX),Castelão (Fortaleza),187,1/8 FINAL,,,2014_BRAZIL_FS.htm
 xxx,29-06-2014 (17:00 h),,xxx (XXX),Arena Pernambuco (Recife),188,1/8 FINAL,,,2014_BRAZIL_FS.htm
 xxx,30-06-2014 (13:00 h),,xxx (XXX),EstÃ¡dio Nacional de Brasília (Brasília),189,1/8 FINAL,,,2014_BRAZIL_FS.htm
-xxx,30-06-2014 (17:00 h),,xxx (XXX),EstÃ¡dio Beira-Rio (Porto Alegre),190,1/8 FINAL,,,2014_BRAZIL_FS.htm
-xxx,1-07-2014 (13:00 h),,xxx (XXX),Novo EstÃ¡dio do Corinthians (São Paulo),191,1/8 FINAL,,,2014_BRAZIL_FS.htm
+xxx,30-06-2014 (17:00 h),,xxx (XXX),Estádio Beira-Rio (Porto Alegre),190,1/8 FINAL,,,2014_BRAZIL_FS.htm
+xxx,1-07-2014 (13:00 h),,xxx (XXX),Estádio do Corinthians (São Paulo),191,1/8 FINAL,,,2014_BRAZIL_FS.htm
 xxx,1-07-2014 (17:00 h),,xxx (XXX),Arena Fonte Nova (Salvador),192,1/8 FINAL,,,2014_BRAZIL_FS.htm
 xxx,4-07-2014 (13:00 h),,xxx (XXX),Maracanã (Rio de Janeiro),193,1/4 FINAL,,,2014_BRAZIL_FS.htm
 xxx,4-07-2014 (17:00 h),,xxx (XXX),Castelão (Fortaleza),194,1/4 FINAL,,,2014_BRAZIL_FS.htm
 xxx,5-07-2014 (13:00 h),,xxx (XXX),EstÃ¡dio Nacional de Brasília (Brasília),195,1/4 FINAL,,,2014_BRAZIL_FS.htm
 xxx,5-07-2014 (17:00 h),,xxx (XXX),Arena Fonte Nova (Salvador),196,1/4 FINAL,,,2014_BRAZIL_FS.htm
 xxx,8-07-2014 (17:00 h),,xxx (XXX),Mineirão (Belo Horizonte),197,1/2 FINAL,,,2014_BRAZIL_FS.htm
-xxx,9-07-2014 (17:00 h),,xxx (XXX),Novo EstÃ¡dio do Corinthians (São Paulo),198,1/2 FINAL,,,2014_BRAZIL_FS.htm
+xxx,9-07-2014 (17:00 h),,xxx (XXX),Estádio do Corinthians (São Paulo),198,1/2 FINAL,,,2014_BRAZIL_FS.htm
 xxx,12-07-2014 (17:00 h),,xxx (XXX),EstÃ¡dio Nacional de Brasília (Brasília),199,PLACES 3-4,LOSER X,LOSER Y,2014_BRAZIL_FS.htm
 xxx,13-07-2014 (16:00 h),,xxx (XXX),Maracanã (Rio de Janeiro),200,FINAL,WINNER X,WINNER Y,2014_BRAZIL_FS.htm
 4444,13-07-1930 (15:00 h),,Domingo Lombardi (URU),Pocitos (Montevideo),201, GROUP STAGE,France,Mexico,1930_URUGUAY_FS.htm
@@ -220,7 +220,7 @@ xxx,13-07-2014 (16:00 h),,xxx (XXX),Maracanã (Rio de Janeiro),200,FINAL,WINNER 
 95000,31-05-1986 (12:00 h),,Erik Fredriksson (SWE),Estadio Azteca (México D.F.),219,GROUP STAGE,Bulgaria,Italy,1986_MEXICO_FS.htm
 35748,1-06-1986 (12:00 h),,Christopher Bambridge (AUS),Estadio Jalisco (Guadalajara),220,GROUP STAGE,Spain,Brazil,1986_MEXICO_FS.htm
 35748,1-06-1986 (16:00 h),,HernÃ¡n MartÃ­n Silva Arce (CHI),Nou Camp (León),221,GROUP STAGE,Canada,France,1986_MEXICO_FS.htm
-40000,2-06-1986 (12:00 h),,Victoriano SÃ¡nchez Arminio (SPA),Estadio OlÃ­mpico âMéxico 68â (México D.F.),222,GROUP STAGE,Argentina,South Korea,1986_MEXICO_FS.htm
+40000,2-06-1986 (12:00 h),,Victoriano Sánchez Arminio (SPA),Estadio Olímpico Universitario (México D.F.),222,GROUP STAGE,Argentina,South Korea,1986_MEXICO_FS.htm
 16500,2-06-1986 (12:00 h),,Luigi Agnolin (ITA),Revolución Mexicana (Irapuato),223,GROUP STAGE,Soviet Union,Hungary,1986_MEXICO_FS.htm
 19694,2-06-1986 (16:00 h),,José Luis MartÃ­nez BazÃ¡n (URU),Estadio Universitario (Monterrey),224,GROUP STAGE,Morocco,Poland,1986_MEXICO_FS.htm
 110000,3-06-1986 (12:00 h),,Carlos Alfonso Espósito (ARG),Estadio Azteca (México D.F.),225,GROUP STAGE,Belgium,Mexico,1986_MEXICO_FS.htm
@@ -231,7 +231,7 @@ xxx,13-07-2014 (16:00 h),,xxx (XXX),Maracanã (Rio de Janeiro),200,FINAL,WINNER 
 18000,4-06-1986 (16:00 h),,Lajos Németh (HUN),Estadio Neza '86 (Nezahualcóyotl),230,GROUP STAGE,Scotland,Denmark,1986_MEXICO_FS.htm
 32000,5-06-1986 (12:00 h),,Jan Keizer (NED),Estadio Cuauhtémoc (Puebla),231,GROUP STAGE,Italy,Argentina,1986_MEXICO_FS.htm
 36540,5-06-1986 (12:00 h),,Romualdo Arppi Filho (BRA),Nou Camp (León),232,GROUP STAGE,France,Soviet Union,1986_MEXICO_FS.htm
-45000,5-06-1986 (16:00 h),,Fallaj al-Shanar (KSA),Estadio OlÃ­mpico âMéxico 68â (México D.F.),233,GROUP STAGE,South Korea,Bulgaria,1986_MEXICO_FS.htm
+45000,5-06-1986 (16:00 h),,Fallaj al-Shanar (KSA),Estadio Olímpico Universitario (México D.F.),233,GROUP STAGE,South Korea,Bulgaria,1986_MEXICO_FS.htm
 13800,6-06-1986 (12:00 h),,Jamal al-Sharif (SYR),Revolución Mexicana (Irapuato),234,GROUP STAGE,Hungary,Canada,1986_MEXICO_FS.htm
 47000,6-06-1986 (12:00 h),,Rómulo Méndez (GUA),Estadio Jalisco (Guadalajara),235,GROUP STAGE,Brazil,Algeria,1986_MEXICO_FS.htm
 20200,6-06-1986 (16:00 h),,Gabriel GonzÃ¡lez (PAR),Estadio Tecnológico (Monterrey),236,GROUP STAGE,England,Morocco,1986_MEXICO_FS.htm
@@ -244,7 +244,7 @@ xxx,13-07-2014 (16:00 h),,xxx (XXX),Maracanã (Rio de Janeiro),200,FINAL,WINNER 
 31420,9-06-1986 (12:00 h),,Carlos Alberto da Silva Valente (POR),Nou Camp (León),243,GROUP STAGE,Hungary,France,1986_MEXICO_FS.htm
 14200,9-06-1986 (12:00 h),,Idrissa Traoré (MLI),Revolución Mexicana (Irapuato),244,GROUP STAGE,Soviet Union,Canada,1986_MEXICO_FS.htm
 20000,10-06-1986 (12:00 h),,David Socha (USA),Estadio Cuauhtémoc (Puebla),245,GROUP STAGE,South Korea,Italy,1986_MEXICO_FS.htm
-45000,10-06-1986 (12:00 h),,Berny Ulloa (CRC),Estadio OlÃ­mpico âMéxico 68â (México D.F.),246,GROUP STAGE,Argentina,Bulgaria,1986_MEXICO_FS.htm
+45000,10-06-1986 (12:00 h),,Berny Ulloa (CRC),Estadio Olímpico Universitario (México D.F.),246,GROUP STAGE,Argentina,Bulgaria,1986_MEXICO_FS.htm
 10000,11-06-1986 (12:00 h),,Bogdan Dochev (BUL),La Bombonera (Toluca),247,GROUP STAGE,Paraguay,Belgium,1986_MEXICO_FS.htm
 103763,11-06-1986 (12:00 h),,Zoran PetroviÄ (YUG),Estadio Azteca (México D.F.),248,GROUP STAGE,Iraq,Mexico,1986_MEXICO_FS.htm
 22600,11-06-1986 (16:00 h),,André Daina (SWI),Estadio Universitario (Monterrey),249,GROUP STAGE,England,Poland,1986_MEXICO_FS.htm
@@ -257,7 +257,7 @@ xxx,13-07-2014 (16:00 h),,xxx (XXX),Maracanã (Rio de Janeiro),200,FINAL,WINNER 
 32277,15-06-1986 (16:00 h),,Erik Fredriksson (SWE),Nou Camp (León),256,1/8 FINAL,Soviet Union,Belgium,1986_MEXICO_FS.htm
 45000,16-06-1986 (12:00 h),,Volker Roth (FRG),Estadio Jalisco (Guadalajara),257,1/8 FINAL,Brazil,Poland,1986_MEXICO_FS.htm
 26000,16-06-1986 (16:00 h),,Luigi Agnolin (ITA),Estadio Cuauhtémoc (Puebla),258,1/8 FINAL,Argentina,Uruguay,1986_MEXICO_FS.htm
-71449,17-06-1986 (12:00 h),,Carlos Alfonso Espósito (ARG),Estadio OlÃ­mpico âMéxico 68â (México D.F.),259,1/8 FINAL,Italy,France,1986_MEXICO_FS.htm
+71449,17-06-1986 (12:00 h),,Carlos Alfonso Espósito (ARG),Estadio Olímpico Universitario (México D.F.),259,1/8 FINAL,Italy,France,1986_MEXICO_FS.htm
 19800,17-06-1986 (16:00 h),,Zoran PetroviÄ (YUG),Estadio Universitario (Monterrey),260,1/8 FINAL,Morocco,FRG,1986_MEXICO_FS.htm
 98728,18-06-1986 (12:00 h),,Jamal al-Sharif (SYR),Estadio Azteca (México D.F.),261,1/8 FINAL,England,Paraguay,1986_MEXICO_FS.htm
 38500,18-06-1986 (16:00 h),,Jan Keizer (NED),La Corregidora (Querétaro),262,1/8 FINAL,Denmark,Spain,1986_MEXICO_FS.htm
@@ -291,17 +291,17 @@ xxx,13-07-2014 (16:00 h),,xxx (XXX),Maracanã (Rio de Janeiro),200,FINAL,WINNER 
 29703,25-06-1950 (15:00 h),,Karel van der Meer (NED),Maracanã (Rio de Janeiro),290, GROUP STAGE,England,Chile,1950_BRAZIL_FS.htm
 9511,25-06-1950 (15:00 h),,MÃ¡rio GonÃ§alves Vianna (BRA),Durival de Britto e Silva (Curitiba),291, GROUP STAGE,Spain,USA,1950_BRAZIL_FS.htm
 36502,25-06-1950 (15:00 h),,Jean Lutz (SWI),Pacaembu (São Paulo),292, GROUP STAGE,Sweden,Italy,1950_BRAZIL_FS.htm
-7336,25-06-1950 (18:00 h),,Giovanni Galeati (ITA),EstÃ¡dio IndependÃªncia (Belo Horizonte),293, GROUP STAGE,Yugoslavia,Switzerland,1950_BRAZIL_FS.htm
+7336,25-06-1950 (18:00 h),,Giovanni Galeati (ITA),Estádio Independência (Belo Horizonte),293, GROUP STAGE,Yugoslavia,Switzerland,1950_BRAZIL_FS.htm
 42032,28-06-1950 (15:00 h),,Ramón Azón (SPA),Pacaembu (São Paulo),294, GROUP STAGE,Brazil,Switzerland,1950_BRAZIL_FS.htm
-11078,28-06-1950 (15:15 h),,Reginald Leafe (ENG),EstÃ¡dio dos Eucaliptos (Porto Alegre),295, GROUP STAGE,Yugoslavia,Mexico,1950_BRAZIL_FS.htm
+11078,28-06-1950 (15:15 h),,Reginald Leafe (ENG),Estádio dos Eucaliptos (Porto Alegre),295, GROUP STAGE,Yugoslavia,Mexico,1950_BRAZIL_FS.htm
 19790,29-06-1950 (15:00 h),,Alberto da Gama Malcher (BRA),Maracanã (Rio de Janeiro),296, GROUP STAGE,Spain,Chile,1950_BRAZIL_FS.htm
 7903,29-06-1950 (15:30 h),,George Mitchell (SCO),Durival de Britto e Silva (Curitiba),297, GROUP STAGE,Sweden,Paraguay,1950_BRAZIL_FS.htm
-10151,29-06-1950 (18:00 h),,Generoso Dattilo (ITA),EstÃ¡dio IndependÃªncia (Belo Horizonte),298, GROUP STAGE,USA,England,1950_BRAZIL_FS.htm
+10151,29-06-1950 (18:00 h),,Generoso Dattilo (ITA),Estádio Independência (Belo Horizonte),298, GROUP STAGE,USA,England,1950_BRAZIL_FS.htm
 142429,1-07-1950 (15:00 h),,Mervyn Griffiths (WAL),Maracanã (Rio de Janeiro),299, GROUP STAGE,Brazil,Yugoslavia,1950_BRAZIL_FS.htm
 74462,2-07-1950 (15:00 h),,Giovanni Galeati (ITA),Maracanã (Rio de Janeiro),300, GROUP STAGE,Spain,England,1950_BRAZIL_FS.htm
 25811,2-07-1950 (15:00 h),,Arthur Ellis (ENG),Pacaembu (São Paulo),301, GROUP STAGE,Italy,Paraguay,1950_BRAZIL_FS.htm
-5284,2-07-1950 (15:00 h),,George Reader (ENG),EstÃ¡dio IndependÃªncia (Belo Horizonte),302, GROUP STAGE,Uruguay,Bolivia,1950_BRAZIL_FS.htm
-3580,2-07-1950 (15:15 h),,Ivan Eklind (SWE),EstÃ¡dio dos Eucaliptos (Porto Alegre),303, GROUP STAGE,Switzerland,Mexico,1950_BRAZIL_FS.htm
+5284,2-07-1950 (15:00 h),,George Reader (ENG),Estádio Independência (Belo Horizonte),302, GROUP STAGE,Uruguay,Bolivia,1950_BRAZIL_FS.htm
+3580,2-07-1950 (15:15 h),,Ivan Eklind (SWE),Estádio dos Eucaliptos (Porto Alegre),303, GROUP STAGE,Switzerland,Mexico,1950_BRAZIL_FS.htm
 8501,2-07-1950 (18:00 h),,MÃ¡rio Gardelli (BRA),Ilha do Retiro (Recife),304, GROUP STAGE,Chile,USA,1950_BRAZIL_FS.htm
 138886,9-07-1950 (15:00 h),,Arthur Ellis (ENG),Maracanã (Rio de Janeiro),305, FINAL ROUND,Brazil,Sweden,1950_BRAZIL_FS.htm
 44802,9-07-1950 (15:00 h),,Mervyn Griffiths (WAL),Pacaembu (São Paulo),306, FINAL ROUND,Uruguay,Spain,1950_BRAZIL_FS.htm
@@ -383,7 +383,7 @@ xxx,13-07-2014 (16:00 h),,xxx (XXX),Maracanã (Rio de Janeiro),200,FINAL,WINNER 
 35000,17-06-1998 (21:00 h),,Edward Lennie (AUS),Stade de la Mosson (Montpellier),382,GROUP STAGE,Italy,Cameroon,1998_FRANCE_FS.htm
 36500,18-06-1998 (17:30 h),,John Jairo Toro (COL),Stade Municipal (Toulouse),383,GROUP STAGE,South Africa,Denmark,1998_FRANCE_FS.htm
 75000,18-06-1998 (21:00 h),,Arturo Brizio Carter (MEX),Stade de France (Saint-Denis   Paris),384,GROUP STAGE,France,Saudi Arabia,1998_FRANCE_FS.htm
-48500,19-06-1998 (17:30 h),,Mario SÃ¡nchez Yantén (CHI),Parc des Princes (Paris),385,GROUP STAGE,Nigeria,Bulgaria,1998_FRANCE_FS.htm
+48500,19-06-1998 (17:30 h),,Mario Sánchez Yantén (CHI),Parc des Princes (Paris),385,GROUP STAGE,Nigeria,Bulgaria,1998_FRANCE_FS.htm
 35300,19-06-1998 (21:00 h),,Ian McLeod (SAF),Geoffroy Guichard (Saint-Ãtienne),386,GROUP STAGE,Spain,Paraguay,1998_FRANCE_FS.htm
 39000,20-06-1998 (14:30 h),,Ramesh Ramdhan (TRI),La Beaujoire (Nantes),387,GROUP STAGE,Japan,Croatia,1998_FRANCE_FS.htm
 34750,20-06-1998 (17:30 h),,Hugh Dallas (SCO),Parc Lescure (Bordeaux),388,GROUP STAGE,Belgium,Mexico,1998_FRANCE_FS.htm
@@ -398,7 +398,7 @@ xxx,13-07-2014 (16:00 h),,xxx (XXX),Maracanã (Rio de Janeiro),200,FINAL,WINNER 
 60000,23-06-1998 (21:00 h),,Esfandiar Baharmast (USA),Vélodrome (Marseille),397,GROUP STAGE,Brazil,Norway,1998_FRANCE_FS.htm
 35500,23-06-1998 (21:00 h),,Ali Mohammed Bujsaim (UAE),Geoffroy Guichard (Saint-Ãtienne),398,GROUP STAGE,Scotland,Morocco,1998_FRANCE_FS.htm
 43500,24-06-1998 (16:00 h),,Pierluigi Collina (ITA),Stade de Gerland (Lyon),399,GROUP STAGE,France,Denmark,1998_FRANCE_FS.htm
-34500,24-06-1998 (16:00 h),,Mario SÃ¡nchez Yantén (CHI),Parc Lescure (Bordeaux),400,GROUP STAGE,South Africa,Saudi Arabia,1998_FRANCE_FS.htm
+34500,24-06-1998 (16:00 h),,Mario Sánchez Yantén (CHI),Parc Lescure (Bordeaux),400,GROUP STAGE,South Africa,Saudi Arabia,1998_FRANCE_FS.htm
 37500,24-06-1998 (21:00 h),,Pirom Un-Prasert (THA),Stade Municipal (Toulouse),401,GROUP STAGE,Nigeria,Paraguay,1998_FRANCE_FS.htm
 41275,24-06-1998 (21:00 h),,Mario van der Ende (NED),Félix Bollaert (Lens),402,GROUP STAGE,Spain,Bulgaria,1998_FRANCE_FS.htm
 35500,25-06-1998 (16:00 h),,Abdulrahman al-Zeid (KSA),Geoffroy Guichard (Saint-Ãtienne),403,GROUP STAGE,Netherlands,Mexico,1998_FRANCE_FS.htm
@@ -478,38 +478,38 @@ xxx,13-07-2014 (16:00 h),,xxx (XXX),Maracanã (Rio de Janeiro),200,FINAL,WINNER 
 51426,7-07-1990 (20:00 h),,JoÃ«l Quiniou (FRA),San Nicola (Bari),477,PLACES 3-4,Italy,England,1990_ITALY_FS.htm
 73603,8-07-1990 (20:00 h),,Edgardo Codesal (MEX),Stadio Olimpico (Roma),478,FINAL,FRG,Argentina,1990_ITALY_FS.htm
 67579,1-06-1978 (15:00 h),,Ãngel Norberto Coerezza (ARG),Estadio Monumental (Buenos Aires),479,GROUP STAGE (FIRST              ROUND),FRG,Poland,1978_ARGENTINA_FS.htm
-42653,2-06-1978 (13:45 h),,Nicolae Rainea (ROM),José MarÃ­a Minella (Mar del Plata),480,GROUP STAGE (FIRST              ROUND),Italy,France,1978_ARGENTINA_FS.htm
+42653,2-06-1978 (13:45 h),,Nicolae Rainea (ROM),Estadio José María Minella (Mar del Plata),480,GROUP STAGE (FIRST              ROUND),Italy,France,1978_ARGENTINA_FS.htm
 17396,2-06-1978 (16:45 h),,John Gordon (SCO),El Gigante de Arroyito (Rosario),481,GROUP STAGE (FIRST              ROUND),Tunisia,Mexico,1978_ARGENTINA_FS.htm
 71615,2-06-1978 (19:15 h),,António José da Silva Garrido (POR),Estadio Monumental (Buenos Aires),482,GROUP STAGE (FIRST              ROUND),Argentina,Hungary,1978_ARGENTINA_FS.htm
 40841,3-06-1978 (13:45 h),,KÃ¡roly Palotai (HUN),José Amalfitani (Buenos Aires),483,GROUP STAGE (FIRST              ROUND),Austria,Spain,1978_ARGENTINA_FS.htm
-38618,3-06-1978 (13:45 h),,Clive Thomas (WAL),José MarÃ­a Minella (Mar del Plata),484,GROUP STAGE (FIRST              ROUND),Sweden,Brazil,1978_ARGENTINA_FS.htm
-37927,3-06-1978 (16:45 h),,Ulf Eriksson (SWE),Estadio OlÃ­mpico âChateau Carrerasâ (Córdoba),485,GROUP STAGE (FIRST              ROUND),Peru,Scotland,1978_ARGENTINA_FS.htm
+38618,3-06-1978 (13:45 h),,Clive Thomas (WAL),Estadio José María Minella (Mar del Plata),484,GROUP STAGE (FIRST              ROUND),Sweden,Brazil,1978_ARGENTINA_FS.htm
+37927,3-06-1978 (16:45 h),,Ulf Eriksson (SWE),Estadio Olímpico Chateau Carreras (Córdoba),485,GROUP STAGE (FIRST              ROUND),Peru,Scotland,1978_ARGENTINA_FS.htm
 33431,3-06-1978 (16:45 h),,Alfonso GonzÃ¡lez Archundia (MEX),Malvinas Argentinas (Mendoza),486,GROUP STAGE (FIRST              ROUND),Netherlands,Iran,1978_ARGENTINA_FS.htm
-26533,6-06-1978 (13:45 h),,Ramón Barreto (URU),José MarÃ­a Minella (Mar del Plata),487,GROUP STAGE (FIRST              ROUND),Italy,Hungary,1978_ARGENTINA_FS.htm
-35258,6-06-1978 (16:45 h),,Farouk Bouzo (SYR),Estadio OlÃ­mpico âChateau Carrerasâ (Córdoba),488,GROUP STAGE (FIRST              ROUND),FRG,Mexico,1978_ARGENTINA_FS.htm
+26533,6-06-1978 (13:45 h),,Ramón Barreto (URU),Estadio José María Minella (Mar del Plata),487,GROUP STAGE (FIRST              ROUND),Italy,Hungary,1978_ARGENTINA_FS.htm
+35258,6-06-1978 (16:45 h),,Farouk Bouzo (SYR),Estadio Olímpico Chateau Carreras (Córdoba),488,GROUP STAGE (FIRST              ROUND),FRG,Mexico,1978_ARGENTINA_FS.htm
 9624,6-06-1978 (16:45 h),,Ãngel Franco MartÃ­nez (SPA),El Gigante de Arroyito (Rosario),489,GROUP STAGE (FIRST              ROUND),Poland,Tunisia,1978_ARGENTINA_FS.htm
 71666,6-06-1978 (19:15 h),,Jean Dubach (SWI),Estadio Monumental (Buenos Aires),490,GROUP STAGE (FIRST              ROUND),Argentina,France,1978_ARGENTINA_FS.htm
 41424,7-06-1978 (13:45 h),,Charles Corver (NED),José Amalfitani (Buenos Aires),491,GROUP STAGE (FIRST              ROUND),Austria,Sweden,1978_ARGENTINA_FS.htm
-34771,7-06-1978 (13:45 h),,Sergio Gonella (ITA),José MarÃ­a Minella (Mar del Plata),492,GROUP STAGE (FIRST              ROUND),Brazil,Spain,1978_ARGENTINA_FS.htm
-7938,7-06-1978 (16:45 h),,Youssou NâDiaye (SEN),Estadio OlÃ­mpico âChateau Carrerasâ (Córdoba),493,GROUP STAGE (FIRST              ROUND),Scotland,Iran,1978_ARGENTINA_FS.htm
+34771,7-06-1978 (13:45 h),,Sergio Gonella (ITA),Estadio José María Minella (Mar del Plata),492,GROUP STAGE (FIRST              ROUND),Brazil,Spain,1978_ARGENTINA_FS.htm
+7938,7-06-1978 (16:45 h),,Youssou NâDiaye (SEN),Estadio Olímpico Chateau Carreras (Córdoba),493,GROUP STAGE (FIRST              ROUND),Scotland,Iran,1978_ARGENTINA_FS.htm
 28125,7-06-1978 (16:45 h),,Adolf Prokop (GDR),Malvinas Argentinas (Mendoza),494,GROUP STAGE (FIRST              ROUND),Netherlands,Peru,1978_ARGENTINA_FS.htm
-23127,10-06-1978 (13:45 h),,Arnaldo César Coelho (BRA),José MarÃ­a Minella (Mar del Plata),495,GROUP STAGE (FIRST              ROUND),France,Hungary,1978_ARGENTINA_FS.htm
-30667,10-06-1978 (16:45 h),,César Augusto Orosco (PER),Estadio OlÃ­mpico âChateau Carrerasâ (Córdoba),496,GROUP STAGE (FIRST              ROUND),FRG,Tunisia,1978_ARGENTINA_FS.htm
+23127,10-06-1978 (13:45 h),,Arnaldo César Coelho (BRA),Estadio José María Minella (Mar del Plata),495,GROUP STAGE (FIRST              ROUND),France,Hungary,1978_ARGENTINA_FS.htm
+30667,10-06-1978 (16:45 h),,César Augusto Orosco (PER),Estadio Olímpico Chateau Carreras (Córdoba),496,GROUP STAGE (FIRST              ROUND),FRG,Tunisia,1978_ARGENTINA_FS.htm
 22651,10-06-1978 (16:45 h),,Jaffar Namdar (IRN),El Gigante de Arroyito (Rosario),497,GROUP STAGE (FIRST              ROUND),Poland,Mexico,1978_ARGENTINA_FS.htm
 71772,10-06-1978 (19:15 h),,Abraham Klein (ISR),Estadio Monumental (Buenos Aires),498,GROUP STAGE (FIRST              ROUND),Italy,Argentina,1978_ARGENTINA_FS.htm
 42132,11-06-1978 (13:45 h),,Ferdinand Biwersi (FRG),José Amalfitani (Buenos Aires),499,GROUP STAGE (FIRST              ROUND),Spain,Sweden,1978_ARGENTINA_FS.htm
-35221,11-06-1978 (13:45 h),,Robert Wurtz (FRA),José MarÃ­a Minella (Mar del Plata),500,GROUP STAGE (FIRST              ROUND),Brazil,Austria,1978_ARGENTINA_FS.htm
-21262,11-06-1978 (16:45 h),,Alojzy Jarguz (POL),Estadio OlÃ­mpico âChateau Carrerasâ (Córdoba),501,GROUP STAGE (FIRST              ROUND),Peru,Iran,1978_ARGENTINA_FS.htm
+35221,11-06-1978 (13:45 h),,Robert Wurtz (FRA),Estadio José María Minella (Mar del Plata),500,GROUP STAGE (FIRST              ROUND),Brazil,Austria,1978_ARGENTINA_FS.htm
+21262,11-06-1978 (16:45 h),,Alojzy Jarguz (POL),Estadio Olímpico Chateau Carreras (Córdoba),501,GROUP STAGE (FIRST              ROUND),Peru,Iran,1978_ARGENTINA_FS.htm
 35130,11-06-1978 (16:45 h),,Erich Linemayr (AUT),Malvinas Argentinas (Mendoza),502,GROUP STAGE (FIRST              ROUND),Scotland,Netherlands,1978_ARGENTINA_FS.htm
-25050,14-06-1978 (13:45 h),,John Gordon (SCO),Estadio OlÃ­mpico âChateau Carrerasâ (Córdoba),503,GROUP STAGE (SECOND              ROUND),Netherlands,Austria,1978_ARGENTINA_FS.htm
+25050,14-06-1978 (13:45 h),,John Gordon (SCO),Estadio Olímpico Chateau Carreras (Córdoba),503,GROUP STAGE (SECOND              ROUND),Netherlands,Austria,1978_ARGENTINA_FS.htm
 67547,14-06-1978 (13:45 h),,DuÅ¡an MaksimoviÄ (YUG),Estadio Monumental (Buenos Aires),504,GROUP STAGE (SECOND              ROUND),FRG,Italy,1978_ARGENTINA_FS.htm
 31278,14-06-1978 (16:45 h),,Nicolae Rainea (ROM),Malvinas Argentinas (Mendoza),505,GROUP STAGE (SECOND              ROUND),Brazil,Peru,1978_ARGENTINA_FS.htm
 37091,14-06-1978 (19:15 h),,Ulf Eriksson (SWE),El Gigante de Arroyito (Rosario),506,GROUP STAGE (SECOND              ROUND),Argentina,Poland,1978_ARGENTINA_FS.htm
 35288,18-06-1978 (13:45 h),,Patrick Partridge (ENG),Malvinas Argentinas (Mendoza),507,GROUP STAGE (SECOND              ROUND),Poland,Peru,1978_ARGENTINA_FS.htm
-40750,18-06-1978 (16:45 h),,Ramón Barreto (URU),Estadio OlÃ­mpico âChateau Carrerasâ (Córdoba),508,GROUP STAGE (SECOND              ROUND),FRG,Netherlands,1978_ARGENTINA_FS.htm
+40750,18-06-1978 (16:45 h),,Ramón Barreto (URU),Estadio Olímpico Chateau Carreras (Córdoba),508,GROUP STAGE (SECOND              ROUND),FRG,Netherlands,1978_ARGENTINA_FS.htm
 66695,18-06-1978 (16:45 h),,Francis Rion (BEL),Estadio Monumental (Buenos Aires),509,GROUP STAGE (SECOND              ROUND),Italy,Austria,1978_ARGENTINA_FS.htm
 37326,18-06-1978 (19:45 h),,KÃ¡roly Palotai (HUN),El Gigante de Arroyito (Rosario),510,GROUP STAGE (SECOND              ROUND),Argentina,Brazil,1978_ARGENTINA_FS.htm
-38318,21-06-1978 (13:45 h),,Abraham Klein (ISR),Estadio OlÃ­mpico âChateau Carrerasâ (Córdoba),511,GROUP STAGE (SECOND              ROUND),Austria,FRG,1978_ARGENTINA_FS.htm
+38318,21-06-1978 (13:45 h),,Abraham Klein (ISR),Estadio Olímpico Chateau Carreras (Córdoba),511,GROUP STAGE (SECOND              ROUND),Austria,FRG,1978_ARGENTINA_FS.htm
 67433,21-06-1978 (13:45 h),,Ãngel Franco MartÃ­nez (SPA),Estadio Monumental (Buenos Aires),512,GROUP STAGE (SECOND              ROUND),Netherlands,Italy,1978_ARGENTINA_FS.htm
 39586,21-06-1978 (16:45 h),,Juan Silvagno (CHI),Malvinas Argentinas (Mendoza),513,GROUP STAGE (SECOND              ROUND),Brazil,Poland,1978_ARGENTINA_FS.htm
 37326,21-06-1978 (19:15 h),,Robert Wurtz (FRA),El Gigante de Arroyito (Rosario),514,GROUP STAGE (SECOND              ROUND),Argentina,Peru,1978_ARGENTINA_FS.htm
@@ -729,7 +729,7 @@ xxx,13-07-2014 (16:00 h),,xxx (XXX),Maracanã (Rio de Janeiro),200,FINAL,WINNER 
 60350,22-06-1974 (19:30 h),,Ramón Barreto (URU),Volksparkstadion (Hamburg),728,GROUP STAGE (FIRST            ROUND),GDR,FRG,1974_FRG_FS.htm
 53300,23-06-1974 (16:00 h),,Tony BoÅ¡koviÄ (AUS),Westfalenstadion (Dortmund),729,GROUP STAGE (FIRST            ROUND),Bulgaria,Netherlands,1974_FRG_FS.htm
 28300,23-06-1974 (16:00 h),,Erich Linemayr (AUT),Rheinstadion (Düsseldorf),730,GROUP STAGE (FIRST            ROUND),Sweden,Uruguay,1974_FRG_FS.htm
-25900,23-06-1974 (16:00 h),,Pablo SÃ¡nchez IbÃ¡ñez (SPA),Olympiastadion (München),731,GROUP STAGE (FIRST            ROUND),Argentina,Haiti,1974_FRG_FS.htm
+25900,23-06-1974 (16:00 h),,Pablo Sánchez IbÃ¡ñez (SPA),Olympiastadion (München),731,GROUP STAGE (FIRST            ROUND),Argentina,Haiti,1974_FRG_FS.htm
 68900,23-06-1974 (16:00 h),,Hans-Joachim Weyland (FRG),Neckarstadion (Stuttgart),732,GROUP STAGE (FIRST            ROUND),Poland,Italy,1974_FRG_FS.htm
 66085,26-06-1974 (16:00 h),,Armando Marques (BRA),Rheinstadion (Düsseldorf),733,GROUP STAGE (SECOND            ROUND),Yugoslavia,FRG,1974_FRG_FS.htm
 55348,26-06-1974 (19:30 h),,Robert Davidson (SCO),Parkstadion (Gelsenkirchen),734,GROUP STAGE (SECOND            ROUND),Netherlands,Argentina,1974_FRG_FS.htm
@@ -747,67 +747,67 @@ xxx,13-07-2014 (16:00 h),,xxx (XXX),Maracanã (Rio de Janeiro),200,FINAL,WINNER 
 77833,7-07-1974 (16:00 h),,Jack Taylor (ENG),Olympiastadion (München),746,FINAL,FRG,Netherlands,1974_FRG_FS.htm
 62561,31-05-2002 (20:30 h),,Ali Mohammed Bujsaim (UAE),Seoul World Cup Gyeonggijang â Seoul World Cup Stadium (Seoul),747,GROUP STAGE,France,Senegal,2002_KJ_FS.htm
 33679,1-06-2002 (15:30 h),,Toru Kamikawa (JAP),Niigata Sutajiamu âBiggu Suwanâ â Niigata Stadium âBig Swanâ (Niigata),748,GROUP STAGE,Ireland,Cameroon,2002_KJ_FS.htm
-30157,1-06-2002 (18:00 h),,Saad Kamel Mane (KUW),Munsu Chukku Gyeonggijang â Munsu Football Stadium (Ulsan),749,GROUP STAGE,Uruguay,Denmark,2002_KJ_FS.htm
-32218,1-06-2002 (20:30 h),,Ubaldo Aquino (PAR),Sapporo Domu âHirobaâ â Sapporo Dome âSquareâ (Sapporo),750,GROUP STAGE,Germany,Saudi Arabia,2002_KJ_FS.htm
+30157,1-06-2002 (18:00 h),,Saad Kamel Mane (KUW),Ulsan Munsu Football Stadium (Ulsan),749,GROUP STAGE,Uruguay,Denmark,2002_KJ_FS.htm
+32218,1-06-2002 (20:30 h),,Ubaldo Aquino (PAR),Sapporo Dome (Sapporo),750,GROUP STAGE,Germany,Saudi Arabia,2002_KJ_FS.htm
 34050,2-06-2002 (14:30 h),,Gilles Veissière (FRA),Kashima Sutajiamu â Kashima Stadium (Ibaraki),751,GROUP STAGE,Argentina,Nigeria,2002_KJ_FS.htm
-25186,2-06-2002 (16:30 h),,Ä½uboÅ¡ MicheÄ¾ (SVK),Asiad Ju Gyeonggijang â Asiad Main Stadium (Busan),752,GROUP STAGE,Paraguay,South Africa,2002_KJ_FS.htm
+25186,2-06-2002 (16:30 h),,Ä½uboÅ¡ MicheÄ¾ (SVK),Asiad Main Stadium (Busan),752,GROUP STAGE,Paraguay,South Africa,2002_KJ_FS.htm
 52721,2-06-2002 (18:30 h),,Carlos EugÃªnio Simon (BRA),Saitama Sutajiamu 2002 â Saitama Stadium 2002 (Saitama),753,GROUP STAGE,England,Sweden,2002_KJ_FS.htm
 28598,2-06-2002 (20:30 h),,Mohammed Guezzaz (MOR),Gwangju World Cup Gyeonggijang â Gwangju World Cup Stadium (Gwangju),754,GROUP STAGE,Spain,Slovenia,2002_KJ_FS.htm
 32239,3-06-2002 (15:30 h),,LÃ¹ JÃ¹n (CHN),Niigata Sutajiamu âBiggu Suwanâ â Niigata Stadium âBig Swanâ (Niigata),755,GROUP STAGE,Croatia,Mexico,2002_KJ_FS.htm
-33842,3-06-2002 (18:00 h),,Kim Young-joo (SKR),Munsu Chukku Gyeonggijang â Munsu Football Stadium (Ulsan),756,GROUP STAGE,Brazil,Turkey,2002_KJ_FS.htm
-31081,3-06-2002 (20:30 h),,Brian Hall (USA),Sapporo Domu âHirobaâ â Sapporo Dome âSquareâ (Sapporo),757,GROUP STAGE,Italy,Ecuador,2002_KJ_FS.htm
+33842,3-06-2002 (18:00 h),,Kim Young-joo (SKR),Ulsan Munsu Football Stadium (Ulsan),756,GROUP STAGE,Brazil,Turkey,2002_KJ_FS.htm
+31081,3-06-2002 (20:30 h),,Brian Hall (USA),Sapporo Dome (Sapporo),757,GROUP STAGE,Italy,Ecuador,2002_KJ_FS.htm
 27217,4-06-2002 (15:30 h),,Kyros Vassaras (GRE),Gwangju World Cup Gyeonggijang â Gwangju World Cup Stadium (Gwangju),758,GROUP STAGE,China,Costa Rica,2002_KJ_FS.htm
-55256,4-06-2002 (18:00 h),,William Mattus (CRC),Saitama Sutajiamu 2002 â Saitama Stadium 2002 (Saitama),759,GROUP STAGE,Japan,Belgium,2002_KJ_FS.htm
-48760,4-06-2002 (20:30 h),,Ãscar JuliÃ¡n Ruiz (COL),Asiad Ju Gyeonggijang â Asiad Main Stadium (Busan),760,GROUP STAGE,South Korea,Poland,2002_KJ_FS.htm
-30957,5-06-2002 (15:30 h),,Peter Prendergast (JAM),Uingu Sutajiamu â Wing Stadium (Kobe),761,GROUP STAGE,Russia,Tunisia,2002_KJ_FS.htm
-37306,5-06-2002 (18:00 h),,Byron Moreno (ECU),Suwon World Cup Gyeonggijang â Suwon World Cup Stadium (Suwon),762,GROUP STAGE,USA,Portugal,2002_KJ_FS.htm
+55256,4-06-2002 (18:00 h),,William Mattus (CRC),Saitama Sutajiamu 2002 (Saitama),759,GROUP STAGE,Japan,Belgium,2002_KJ_FS.htm
+48760,4-06-2002 (20:30 h),,Ãscar JuliÃ¡n Ruiz (COL),Asiad Main Stadium (Busan),760,GROUP STAGE,South Korea,Poland,2002_KJ_FS.htm
+30957,5-06-2002 (15:30 h),,Peter Prendergast (JAM),Ulsan Munsu Football Stadium (Kobe),761,GROUP STAGE,Russia,Tunisia,2002_KJ_FS.htm
+37306,5-06-2002 (18:00 h),,Byron Moreno (ECU),Suwon World Cup Stadium (Suwon),762,GROUP STAGE,USA,Portugal,2002_KJ_FS.htm
 35854,5-06-2002 (20:30 h),,Kim Milton Nielsen (DEN),Kashima Sutajiamu â Kashima Stadium (Ibaraki),763,GROUP STAGE,Germany,Ireland,2002_KJ_FS.htm
-43500,6-06-2002 (15:30 h),,Carlos Batres (GUA),Daegu World Cup Gyeonggijang â Daegu World Cup Stadium (Daegu),764,GROUP STAGE,Denmark,Senegal,2002_KJ_FS.htm
-52328,6-06-2002 (18:00 h),,Terje Hauge (NOR),Saitama Sutajiamu 2002 â Saitama Stadium 2002 (Saitama),765,GROUP STAGE,Cameroon,Saudi Arabia,2002_KJ_FS.htm
-38289,6-06-2002 (20:30 h),,Felipe Ramos Rizo (MEX),Asiad Ju Gyeonggijang â Asiad Main Stadium (Busan),766,GROUP STAGE,France,Uruguay,2002_KJ_FS.htm
-36194,7-06-2002 (15:30 h),,René Ortube (BOL),Uingu Sutajiamu â Wing Stadium (Kobe),767,GROUP STAGE,Sweden,Nigeria,2002_KJ_FS.htm
+43500,6-06-2002 (15:30 h),,Carlos Batres (GUA),Daegu World Cup Stadium (Daegu),764,GROUP STAGE,Denmark,Senegal,2002_KJ_FS.htm
+52328,6-06-2002 (18:00 h),,Terje Hauge (NOR),Saitama Sutajiamu 2002 (Saitama),765,GROUP STAGE,Cameroon,Saudi Arabia,2002_KJ_FS.htm
+38289,6-06-2002 (20:30 h),,Felipe Ramos Rizo (MEX),Asiad Main Stadium (Busan),766,GROUP STAGE,France,Uruguay,2002_KJ_FS.htm
+36194,7-06-2002 (15:30 h),,René Ortube (BOL),Ulsan Munsu Football Stadium (Kobe),767,GROUP STAGE,Sweden,Nigeria,2002_KJ_FS.htm
 24000,7-06-2002 (18:00 h),,Gamal el-Ghandour (EGY),Jeonju World Cup Gyeonggijang â Jeonju World Cup Stadium (Jeonju),768,GROUP STAGE,Spain,Paraguay,2002_KJ_FS.htm
-35927,7-06-2002 (20:30 h),,Pierluigi Collina (ITA),Sapporo Domu âHirobaâ â Sapporo Dome âSquareâ (Sapporo),769,GROUP STAGE,Argentina,England,2002_KJ_FS.htm
-47226,8-06-2002 (15:30 h),,Ãngel Osvaldo SÃ¡nchez (ARG),Daegu World Cup Gyeonggijang â Daegu World Cup Stadium (Daegu),770,GROUP STAGE,South Africa,Slovenia,2002_KJ_FS.htm
+35927,7-06-2002 (20:30 h),,Pierluigi Collina (ITA),Sapporo Dome (Sapporo),769,GROUP STAGE,Argentina,England,2002_KJ_FS.htm
+47226,8-06-2002 (15:30 h),,Ãngel Osvaldo Sánchez (ARG),Daegu World Cup Stadium (Daegu),770,GROUP STAGE,South Africa,Slovenia,2002_KJ_FS.htm
 36472,8-06-2002 (18:00 h),,Graham Poll (ENG),Kashima Sutajiamu â Kashima Stadium (Ibaraki),771,GROUP STAGE,Italy,Croatia,2002_KJ_FS.htm
-36750,8-06-2002 (20:30 h),,Anders Frisk (SWE),Jeju World Cup Gyeonggijang â Jeju World Cup Stadium (Seogwipo),772,GROUP STAGE,Brazil,China,2002_KJ_FS.htm
+36750,8-06-2002 (20:30 h),,Anders Frisk (SWE),Jeju World Cup Stadium (Seogwipo),772,GROUP STAGE,Brazil,China,2002_KJ_FS.htm
 45610,9-06-2002 (15:30 h),,Mourad Daami (TUN),Miyagi Sutajiamu â Miyagi Stadium (Miyagi),773,GROUP STAGE,Mexico,Ecuador,2002_KJ_FS.htm
-42299,9-06-2002 (18:00 h),,Coffi Codjia (BEN),Munhak Gyeonggijang â Literary Stadium (Incheon),774,GROUP STAGE,Costa Rica,Turkey,2002_KJ_FS.htm
+42299,9-06-2002 (18:00 h),,Coffi Codjia (BEN),Incheon Munhak Stadium (Incheon),774,GROUP STAGE,Costa Rica,Turkey,2002_KJ_FS.htm
 66108,9-06-2002 (20:30 h),,Markus Merk (GER),Kokusai Sogo Kyogijo â International Stadium (Yokohama),775,GROUP STAGE,Japan,Russia,2002_KJ_FS.htm
-60778,10-06-2002 (15:30 h),,Urs Meier (SWI),Daegu World Cup Gyeonggijang â Daegu World Cup Stadium (Daegu),776,GROUP STAGE,South Korea,USA,2002_KJ_FS.htm
-39700,10-06-2002 (18:00 h),,Mark Shield (AUS),Oita Sutajiamu âBiggu Aiâ â Oita Stadium âBig Eyeâ (Oita),777,GROUP STAGE,Tunisia,Belgium,2002_KJ_FS.htm
+60778,10-06-2002 (15:30 h),,Urs Meier (SWI),Daegu World Cup Stadium (Daegu),776,GROUP STAGE,South Korea,USA,2002_KJ_FS.htm
+39700,10-06-2002 (18:00 h),,Mark Shield (AUS),Ōita Stadium (Oita),777,GROUP STAGE,Tunisia,Belgium,2002_KJ_FS.htm
 31000,10-06-2002 (20:30 h),,Hugh Dallas (SCO),Jeonju World Cup Gyeonggijang â Jeonju World Cup Stadium (Jeonju),778,GROUP STAGE,Portugal,Poland,2002_KJ_FS.htm
-48100,11-06-2002 (15:30 h),,VÃ­tor Manuel Melo Pereira (POR),Munhak Gyeonggijang â Literary Stadium (Incheon),779,GROUP STAGE,Denmark,France,2002_KJ_FS.htm
-33681,11-06-2002 (15:30 h),,Jan Wegereef (NED),Suwon World Cup Gyeonggijang â Suwon World Cup Stadium (Suwon),780,GROUP STAGE,Senegal,Uruguay,2002_KJ_FS.htm
-47085,11-06-2002 (20:30 h),,Antonio JesÃºs López Nieto (SPA),Sutajiamu âEkopaâ â Stadium âEcopaâ (Shizuoka),781,GROUP STAGE,Cameroon,Germany,2002_KJ_FS.htm
+48100,11-06-2002 (15:30 h),,VÃ­tor Manuel Melo Pereira (POR),Incheon Munhak Stadium (Incheon),779,GROUP STAGE,Denmark,France,2002_KJ_FS.htm
+33681,11-06-2002 (15:30 h),,Jan Wegereef (NED),Suwon World Cup Stadium (Suwon),780,GROUP STAGE,Senegal,Uruguay,2002_KJ_FS.htm
+47085,11-06-2002 (20:30 h),,Antonio JesÃºs López Nieto (SPA),Ecpoa Stadium (Shizuoka),781,GROUP STAGE,Cameroon,Germany,2002_KJ_FS.htm
 65320,11-06-2002 (20:30 h),,Falla NâDoye (SEN),Kokusai Sogo Kyogijo â International Stadium (Yokohama),782,GROUP STAGE,Saudi Arabia,Ireland,2002_KJ_FS.htm
 45777,12-06-2002 (15:30 h),,Ali Mohammed Bujsaim (UAE),Miyagi Sutajiamu â Miyagi Stadium (Miyagi),783,GROUP STAGE,Sweden,Argentina,2002_KJ_FS.htm
-44864,12-06-2002 (15:30 h),,Brian Hall (USA),Nagai Rikujo Kyogijo â Nagai Stadium (Osaka),784,GROUP STAGE,Nigeria,England,2002_KJ_FS.htm
-31024,12-06-2002 (20:30 h),,Saad Kamel Mane (KUW),Daejeon World Cup Gyeonggijang â Daejeon World Cup Stadium (Daejeon),785,GROUP STAGE,South Africa,Spain,2002_KJ_FS.htm
-30176,12-06-2002 (20:30 h),,Felipe Ramos Rizo (MEX),Jeju World Cup Gyeonggijang â Jeju World Cup Stadium (Seogwipo),786,GROUP STAGE,Slovenia,Paraguay,2002_KJ_FS.htm
-38524,13-06-2002 (15:30 h),,Gamal el-Ghandour (EGY),Suwon World Cup Gyeonggijang â Suwon World Cup Stadium (Suwon),787,GROUP STAGE,Costa Rica,Brazil,2002_KJ_FS.htm
+44864,12-06-2002 (15:30 h),,Brian Hall (USA),Nagai Stadium (Osaka),784,GROUP STAGE,Nigeria,England,2002_KJ_FS.htm
+31024,12-06-2002 (20:30 h),,Saad Kamel Mane (KUW),Daejeon World Cup Stadium (Daejeon),785,GROUP STAGE,South Africa,Spain,2002_KJ_FS.htm
+30176,12-06-2002 (20:30 h),,Felipe Ramos Rizo (MEX),Jeju World Cup Stadium (Seogwipo),786,GROUP STAGE,Slovenia,Paraguay,2002_KJ_FS.htm
+38524,13-06-2002 (15:30 h),,Gamal el-Ghandour (EGY),Suwon World Cup Stadium (Suwon),787,GROUP STAGE,Costa Rica,Brazil,2002_KJ_FS.htm
 43605,13-06-2002 (15:30 h),,Ãscar JuliÃ¡n Ruiz (COL),Seoul World Cup Gyeonggijang â Seoul World Cup Stadium (Seoul),788,GROUP STAGE,Turkey,China,2002_KJ_FS.htm
 65862,13-06-2002 (20:30 h),,William Mattus (CRC),Kokusai Sogo Kyogijo â International Stadium (Yokohama),789,GROUP STAGE,Ecuador,Croatia,2002_KJ_FS.htm
-39291,13-06-2002 (20:30 h),,Carlos EugÃªnio Simon (BRA),Oita Sutajiamu âBiggu Aiâ â Oita Stadium âBig Eyeâ (Oita),790,GROUP STAGE,Mexico,Italy,2002_KJ_FS.htm
-46640,14-06-2002 (15:30 h),,Kim Milton Nielsen (DEN),Sutajiamu âEkopaâ â Stadium âEcopaâ (Shizuoka),791,GROUP STAGE,Belgium,Russia,2002_KJ_FS.htm
-45213,14-06-2002 (15:30 h),,Gilles Veissière (FRA),Nagai Rikujo Kyogijo â Nagai Stadium (Osaka),792,GROUP STAGE,Tunisia,Japan,2002_KJ_FS.htm
-26482,14-06-2002 (20:30 h),,LÃ¹ JÃ¹n (CHN),Daejeon World Cup Gyeonggijang â Daejeon World Cup Stadium (Daejeon),793,GROUP STAGE,Poland,USA,2002_KJ_FS.htm
-50239,14-06-2002 (20:30 h),,Ãngel Osvaldo SÃ¡nchez (ARG),Munhak Gyeonggijang â Literary Stadium (Incheon),794,GROUP STAGE,Portugal,South Korea,2002_KJ_FS.htm
-25176,15-06-2002 (15:30 h),,Carlos Batres (GUA),Jeju World Cup Gyeonggijang â Jeju World Cup Stadium (Seogwipo),795,1/8 FINAL,Germany,Paraguay,2002_KJ_FS.htm
+39291,13-06-2002 (20:30 h),,Carlos EugÃªnio Simon (BRA),Ōita Stadium (Oita),790,GROUP STAGE,Mexico,Italy,2002_KJ_FS.htm
+46640,14-06-2002 (15:30 h),,Kim Milton Nielsen (DEN),Ecpoa Stadium (Shizuoka),791,GROUP STAGE,Belgium,Russia,2002_KJ_FS.htm
+45213,14-06-2002 (15:30 h),,Gilles Veissière (FRA),Nagai Stadium (Osaka),792,GROUP STAGE,Tunisia,Japan,2002_KJ_FS.htm
+26482,14-06-2002 (20:30 h),,LÃ¹ JÃ¹n (CHN),Daejeon World Cup Stadium (Daejeon),793,GROUP STAGE,Poland,USA,2002_KJ_FS.htm
+50239,14-06-2002 (20:30 h),,Ãngel Osvaldo Sánchez (ARG),Incheon Munhak Stadium (Incheon),794,GROUP STAGE,Portugal,South Korea,2002_KJ_FS.htm
+25176,15-06-2002 (15:30 h),,Carlos Batres (GUA),Jeju World Cup Stadium (Seogwipo),795,1/8 FINAL,Germany,Paraguay,2002_KJ_FS.htm
 40582,15-06-2002 (20:30 h),,Markus Merk (GER),Niigata Sutajiamu âBiggu Suwanâ â Niigata Stadium âBig Swanâ (Niigata),796,1/8 FINAL,Denmark,England,2002_KJ_FS.htm
-39747,16-06-2002 (15:30 h),,Ubaldo Aquino (PAR),Oita Sutajiamu âBiggu Aiâ â Oita Stadium âBig Eyeâ (Oita),797,1/8 FINAL,Sweden,Senegal,2002_KJ_FS.htm
-38926,16-06-2002 (20:30 h),0-1 (Robbie Keane); 1-1 (Hierro) / 1-1 (Holland [out]); 2-1 (Baraja) / 2-1 (Connolly [saved]); 2-1 (Juanfran [out]) / 2-1 (Kilbane [saved]); 2-1 (Valerón [out]) / 2-2 (Finnan); 3-2 (Mendieta),Anders Frisk (SWE),Suwon World Cup Gyeonggijang â Suwon World Cup Stadium (Suwon),798,1/8 FINAL,Spain,Ireland,2002_KJ_FS.htm
+39747,16-06-2002 (15:30 h),,Ubaldo Aquino (PAR),Ōita Stadium (Oita),797,1/8 FINAL,Sweden,Senegal,2002_KJ_FS.htm
+38926,16-06-2002 (20:30 h),0-1 (Robbie Keane); 1-1 (Hierro) / 1-1 (Holland [out]); 2-1 (Baraja) / 2-1 (Connolly [saved]); 2-1 (Juanfran [out]) / 2-1 (Kilbane [saved]); 2-1 (Valerón [out]) / 2-2 (Finnan); 3-2 (Mendieta),Anders Frisk (SWE),Suwon World Cup Stadium (Suwon),798,1/8 FINAL,Spain,Ireland,2002_KJ_FS.htm
 36380,17-06-2002 (15:30 h),,VÃ­tor Manuel Melo Pereira (POR),Jeonju World Cup Gyeonggijang â Jeonju World Cup Stadium (Jeonju),799,1/8 FINAL,Mexico,USA,2002_KJ_FS.htm
-40440,17-06-2002 (20:30 h),,Peter Prendergast (JAM),Uingu Sutajiamu â Wing Stadium (Kobe),800,1/8 FINAL,Brazil,Belgium,2002_KJ_FS.htm
+40440,17-06-2002 (20:30 h),,Peter Prendergast (JAM),Ulsan Munsu Football Stadium (Kobe),800,1/8 FINAL,Brazil,Belgium,2002_KJ_FS.htm
 45666,18-06-2002 (15:30 h),,Pierluigi Collina (ITA),Miyagi Sutajiamu â Miyagi Stadium (Miyagi),801,1/8 FINAL,Japan,Turkey,2002_KJ_FS.htm
-38588,18-06-2002 (20:30 h),,Byron Moreno (ECU),Daejeon World Cup Gyeonggijang â Daejeon World Cup Stadium (Daejeon),802,1/8 FINAL,South Korea,Italy,2002_KJ_FS.htm
-47436,21-06-2002 (15:30 h),,Felipe Ramos Rizo (MEX),Sutajiamu âEkopaâ â Stadium âEcopaâ (Shizuoka),803,1/4 FINAL,England,Brazil,2002_KJ_FS.htm
-37337,21-06-2002 (20:30 h),,Hugh Dallas (SCO),Munsu Chukku Gyeonggijang â Munsu Football Stadium (Ulsan),804,1/4 FINAL,Germany,USA,2002_KJ_FS.htm
+38588,18-06-2002 (20:30 h),,Byron Moreno (ECU),Daejeon World Cup Stadium (Daejeon),802,1/8 FINAL,South Korea,Italy,2002_KJ_FS.htm
+47436,21-06-2002 (15:30 h),,Felipe Ramos Rizo (MEX),Ecpoa Stadium (Shizuoka),803,1/4 FINAL,England,Brazil,2002_KJ_FS.htm
+37337,21-06-2002 (20:30 h),,Hugh Dallas (SCO),Ulsan Munsu Football Stadium (Ulsan),804,1/4 FINAL,Germany,USA,2002_KJ_FS.htm
 42114,22-06-2002 (15:30 h),0-1 (Hwang Sun-hong); 1-1 (Hierro) / 1-2 (Park Ji-sung); 2-2 (Baraja) / 2-3 (Sul Ki-hyun); 3-3 (Xavi) / 3-4 (Ahn Jung-hwan); 3-4 (JoaquÃ­n [saved]) / 3-5 (Hong Myung-bo),Gamal el-Ghandour (EGY),Gwangju World Cup Gyeonggijang â Gwangju World Cup Stadium (Gwangju),805,1/4 FINAL,Spain,South Korea,2002_KJ_FS.htm
-44233,22-06-2002 (20:30 h),,Ãscar JuliÃ¡n Ruiz (COL),Nagai Rikujo Kyogijo â Nagai Stadium (Osaka),806,1/4 FINAL,Senegal,Turkey,2002_KJ_FS.htm
+44233,22-06-2002 (20:30 h),,Ãscar JuliÃ¡n Ruiz (COL),Nagai Stadium (Osaka),806,1/4 FINAL,Senegal,Turkey,2002_KJ_FS.htm
 65625,25-06-2002 (20:30 h),,Urs Meier (SWI),Seoul World Cup Gyeonggijang â Seoul World Cup Stadium (Seoul),807,1/2 FINAL,Germany,South Korea,2002_KJ_FS.htm
-61058,26-06-2002 (20:30 h),,Kim Milton Nielsen (DEN),Saitama Sutajiamu 2002 â Saitama Stadium 2002 (Saitama),808,1/2 FINAL,Brazil,Turkey,2002_KJ_FS.htm
-63483,29-06-2002 (20:00 h),,Saad Kamel Mane (KUW),Daegu World Cup Gyeonggijang â Daegu World Cup Stadium (Daegu),809,PLACES 3-4,Turkey,South Korea,2002_KJ_FS.htm
+61058,26-06-2002 (20:30 h),,Kim Milton Nielsen (DEN),Saitama Sutajiamu 2002 (Saitama),808,1/2 FINAL,Brazil,Turkey,2002_KJ_FS.htm
+63483,29-06-2002 (20:00 h),,Saad Kamel Mane (KUW),Daegu World Cup Stadium (Daegu),809,PLACES 3-4,Turkey,South Korea,2002_KJ_FS.htm
 69029,30-06-2002 (20:00 h),,Pierluigi Collina (ITA),Kokusai Sogo Kyogijo â International Stadium (Yokohama),810,FINAL,Brazil,Germany,2002_KJ_FS.htm
 16000,16-06-1954 (18:00 h),,Mervyn Griffiths (WAL),Stade Olympique de la Pontaise (Lausanne),811, GROUP STAGE,Yugoslavia,France,1954_SWITZERLAND_FS.htm
 13000,16-06-1954 (18:00 h),,Paul Wyssling (SWI),Les Charmilles (Genève),812, GROUP STAGE,Brazil,Mexico,1954_SWITZERLAND_FS.htm
